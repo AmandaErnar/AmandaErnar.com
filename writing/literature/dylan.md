@@ -1,3 +1,5 @@
+02/01/2021
+
 The day was nearing its end. I watched as the sun’s scarlet rays brushed over the boundless pasture and blanketed the sky. I looked up at the fleeting scarlet above, dappled with stars and splashed with various blushing hues, inhaling the sweet scent of wild honeysuckles and white lilies. I came to visit this relatively well-formed part of town every other week, when I had the time. “Beautiful day,” I grumbled as I drew a breath from my hazing cigar. I glanced at my watch and mumbled a curse, for it was almost four, and I had to be back at camp by then.
 
 I was only sixteen, which further proved how desperate our nation was for men. And women.

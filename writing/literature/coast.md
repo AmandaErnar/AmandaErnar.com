@@ -1,3 +1,5 @@
+09/19/2022
+
 "What keeps you up at night?" I found myself asking, my heart abuzz in my throat.
 
 Thalia said nothing, only gazing past me, into the sky, a creamy cobalt. The ocean lurked behind, the moonlight misting its crisp waters. Its waves crashed back and forth against the black searocks. I washed myself in their terse sounds, watching Thalia's eyes meet mine.

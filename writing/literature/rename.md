@@ -1,3 +1,5 @@
+11/31/2022
+
 It was a dry Saturday morning, before the sun's body began its ascent into the deep-purple dawn. River Wombacher's head hung over the marble counter of the jazz bar he owned and operated, his brows furrowed in contemplation. Slightly drunk and rather haphazardly, he read the headlines printed on the television screen in front of him. Chicago's newscast services had been displaying the same headlines for weeks. Another school shooting at a chummy high school in the suburbs, another senator caught having an affair.
 
 The bright jazz harmony buzzing steadily in the background brought forth a perfectly-timed ritardando, slowing to a halt. His left arm stroked his chin as his other brought the dreamy, slow-burning tip of his cigar to his lips. He closed his eyes, trying to think of a time before everything went terribly wrong, before the thought of opening a bar had even entered his mind, before he started keeping track of his graying hairs. He had a dream, once, he recalled. So, then, what happened?

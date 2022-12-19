@@ -1,3 +1,5 @@
+11/06/2022
+
 I jumped over a wooden porch, the beads of my jump rope beating against its spruce lathes, again and again. I had jumped for hours, savoring the satisfaction of my tender feet meeting the polished surface beneath. I was wearing shoes fashioned from cloth, white, bleeding into a burning shade of clear whiskey. There was no explanation to what I was doing. An adult, outside of his porch, jumping rope like a girl in the third grade.
 
 The sun was beginning to set, its colors spilling over the green sea that had sketched itself into the horizon. It was beautiful. I suddenly realized that I would rather jump rope all day than head out for work or attend my neighbour's annual barbecue party, which I was finally invited to.

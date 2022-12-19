@@ -1,3 +1,5 @@
+08/03/2020
+
 I stared at my bright computer screen and bit my lip anxiously, trying to somewhat proofread my client’s terrible writing. After a good twenty seconds of glossing over their insufferable essay on bee preservation, I heaved a drowsy sigh and squeezed my eyes shut in utter misery.
 
 I shut my laptop and ran my cold fingers through my mousy hair. My elbows waned inward, with my fingers still entwined with tufts of hair, as I began to laugh like a psychopath.
