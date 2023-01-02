@@ -20,8 +20,6 @@ The sky was draped in sweeps of cobalt and the sun dipped seductively into a poo
 
 They were supervised by their overweight parents, who I heard sputtering frenziedly from below. I stared down at them from my decrepit balcony, and then their funny little heads turned in unison to look back at me, no longer sputtering and lisping as they did. I tried not to notice.
 
-The mosquitos would come soon, I realized. My earliest memory was waking to a fat, septic mosquito bite on my forearm. It was the last thing I needed right now. I pictured them emerging from their nests and buzzing around my bare arms like they were blocks of rotten fruit.
-
 I had been standing there for what seemed like half an hour, occasionally drawing moony breaths from the warm cigar tucked between my fingers. It sent gentle waves of heat down my fingertips and still glowed faintly with ember.
 
 What time was it?
@@ -199,6 +197,10 @@ He frowned. “Tell me what’s inside the box, Marie.”
 Her fists met the tablecloth with fury. “It’s empty. Kenny’s briefcase is empty,” she muttered through gritted teeth. Caleb didn’t look surprised. “I knew he was bluffing from the start,” he said with a sigh. Marie chuckled, sealing the case and placing it in the seat beside her. Her night was officially ruined.
 
 She looked up at Caleb and forced a smile, resting her chin on her intertwined hands. He could only smile back.
+
+???
+
+**Something happens here**
 
 ???
 
