@@ -104,9 +104,21 @@ ___
 
 "You did wonderful last night," went Dr. Mitchell, shuffling in his stance. River did not reply, only pursing his lips together.
 
-The air was frigid. The red sun was beginning to boil into the
+The air was frigid. The red sun was beginning to boil into the morning sky, a stream of ruddy color bursting across. River felt his head begin to throb at the sight of Mitchell, his face gone slightly sanguine with the sun's blowsy light.
 
-"I was lying," he sighed. "I was lying about your performance being awful the other day. It really swept my off my feet."
+"I was lying," he sighed, his fusty peanut-smelling German accent making River's skin crawl. "I was lying about your performance not being good the other day. You know, you're really going to make your mark on the world of American classical music." He drew a box of unlit cigars out of his back pocket. Frowning, his gaze met River's. "Got a lighter on you?"
+
+"Yeah. One second."
+
+River tossed him a lighter. It was encased with hot-pink plastic and was roughly a third of the size of his thumb.
+
+"You've got adequate fingers," said Mitchell, scowling. "I once had a student like you."
+
+River was listening.
+
+"His name was Andres. Very talented. To him the atmosphere of Weber was...harsh. Tasteless. And so he dropped out to become a street performer living somewhere in southern California, perhaps very poor."
+
+"..."
 
 River did not know what to say. If anything, he hated Dr. Mitchell. He hated having to perform before hundreds of judgemental gazes. He hated the flautist he met earlier and perhaps even himself, too.
 
