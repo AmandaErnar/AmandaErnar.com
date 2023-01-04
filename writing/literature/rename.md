@@ -74,7 +74,14 @@ After running through the first movement, he realized he felt wonderful. It was 
 
 And River suddenly found himself wishing he was an accompanist again.
 
-____
+___
+
+The jazz bar had grown humid. River moved his tongue over his mouth ulcer as he turned to face Travis, his face grown dull with age. Travis was taking breaths from his cigar, perhaps reminiscing as well.
+
+"So, then, what happened that made you want to leave?"
+
+River sighed.
+___
 
 "Don't listen to Mitchell. You sounded wonderful," went Travis, River's only friend. He was the type of man whose beauty carried itself to every corner of the room. He was applying some sort of wax onto the corked portions of his clarinet.
 
@@ -124,6 +131,3 @@ River did not know what to say. If anything, he hated Dr. Mitchell. He hated hav
 
 And so, River scowled, and pushed past Dr. Mitchell as he made his way back into the facility, the cold air whipping his hair back.
 
-___
-
-The jazz bar had grown humid. River moved his tongue over his mouth ulcer as he turned to face Travis, his face grown dull with age. Travis was taking breaths from his cigar, perhaps reminiscing as well.
