@@ -1,0 +1,31 @@
+* {
+    background-color: #a7b7d7;
+    color: white;
+    font-family: century-old-style-std, serif;
+    font-style: normal;
+    text-align: center;
+}
+
+h1 {
+    padding-top: 10%;
+    padding-bottom: 2%
+}
+
+p {
+    font-family: schoolbook, serif;
+    padding: none;
+}
+
+li{
+    padding-left: 5%;
+    padding-right: 10%;
+    list-style-type: none;
+    float: center;
+}    
+
+a {
+    font-family: schoolbook, serif;
+    text-decoration: none;
+    font-style: italic;
+    color: #6785ba;
+}
