@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    background: #a7b7d7;
+    color: white;
+    font-family: sans-serif;
+    padding: 2rem;
+}
+
+main {
+    padding: 1rem;
+    margin: 2rem auto;
+    max-width: 40rem;
+}
