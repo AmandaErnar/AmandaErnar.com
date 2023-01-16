@@ -1,4 +1,5 @@
 <script>
+    import '$lib/styles/style.css'
     export const prerender = true
 </script>
 
@@ -26,47 +27,4 @@
 </main>
 
 <footer>&copy; Amanda Ernar 2023</footer>
-<style>
-    :global(body) {
-        margin: 0;
-        background: #a7b7d7;
-        color: white;
-        font-family: century-old-style-std, serif;
-        padding: 2rem;
-    }
 
-    main {
-        padding: 1rem;
-        margin: 2rem auto;
-        max-width: 40rem;
-    }
-
-    header {
-        padding: 1rem;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-    }
-
-    ul {
-        margin: 0;
-        list-style-type: none;
-        display: flex;
-        gap: 1rem;
-    }
-
-    a {
-        text-decoration: none;
-        font-style: italic;
-        color: inherit;
-    }
-
-    footer {
-        position: fixed;
-        left: 0;
-        bottom: 0;
-        width: 100%;
-        padding-bottom: 2rem;
-        text-align: center; 
-    }
-</style>
