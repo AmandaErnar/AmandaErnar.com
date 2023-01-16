@@ -1,5 +1,4 @@
 <script>
-    import '$lib/styles/style.css'
     export const prerender = true
 </script>
 
