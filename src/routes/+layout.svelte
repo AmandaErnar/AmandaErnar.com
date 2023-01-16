@@ -1,5 +1,6 @@
 <script>
     import '$lib/styles/style.css'
+    export const prerender = true
 </script>
 
 <link rel="stylesheet" href="https://use.typekit.net/xlg6gju.css">
