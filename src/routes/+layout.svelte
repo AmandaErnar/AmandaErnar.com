@@ -1,5 +1,8 @@
 <link rel="stylesheet" href="https://use.typekit.net/xlg6gju.css">
-    <link rel="stylesheet" href="../../src/lib/styles/style.css">
+
+<script>
+    import "../../src/lib/styles/style.css";
+</script>
 
 <header>
     <a href="/">
