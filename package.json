@@ -5,7 +5,7 @@
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
-        "deploy": "rm -rf build && npm run build && npx gh-pages --dist build",
+		"deploy": "rm -rf build && npm run build && npx gh-pages --dist build",
 		"preview": "vite preview"
 	},
 	"devDependencies": {

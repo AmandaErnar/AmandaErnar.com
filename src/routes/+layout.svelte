@@ -1,5 +1,5 @@
 <style>
-    * {
+    :global(body) {
         margin: 0;
         background: #a7b7d7;
         color: white;
@@ -51,7 +51,7 @@
 
 <header>
     <a href="/">
-        <img src='img/2.png' alt='Home' style='height: 75px'>
+        <img src='/img/2.png' alt='Home' style='height: 75px'>
     </a>
 
   <nav>
