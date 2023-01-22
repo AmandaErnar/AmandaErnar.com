@@ -1,53 +1,5 @@
-<style>
-    :global(body) {
-        margin: 0;
-        background: #a7b7d7;
-        color: white;
-        font-family: century-old-style-std, serif;
-        padding: 1rem;
-    }
-
-    main {
-        padding: 1rem;
-        margin: 2rem auto;
-        max-width: 40rem;
-    }
-
-    header {
-        padding: 1rem;
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-    }
-
-    ul {
-        margin: 0;
-        list-style-type: none;
-        display: flex;
-        gap: 1rem;
-    }
-
-    a {
-        text-decoration: none;
-        font-style: italic;
-        color: inherit;
-    }
-
-    footer {
-        position: fixed;
-        left: 0;
-        bottom: 0;
-        width: 100%;
-        padding-bottom: 2rem;
-        text-align: center; 
-    }
-    
-</style>
-<script>
-    export const prerender = true
-</script>
-
 <link rel="stylesheet" href="https://use.typekit.net/xlg6gju.css">
+    <link rel="stylesheet" href="../../src/lib/styles/style.css">
 
 <header>
     <a href="/">
