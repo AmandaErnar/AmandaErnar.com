@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://use.typekit.net/xlg6gju.css">
 
 <script>
-    import "../../src/lib/styles/style.css";
+    import "$lib/styles/style.css";
 </script>
 
 <header>
