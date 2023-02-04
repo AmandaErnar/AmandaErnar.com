@@ -1,5 +1,6 @@
 ---
-title: Projects 
+title: Why We Write at a Fifth Grade Level
+date: 1/23/23
 
 ---
 
@@ -8,4 +9,3 @@ Ever skimmed over a swathe of text, your mind subconsciously giving definitions 
 Keep things simple.
 
 Unless you're writing an academic paper of some sort.
-
