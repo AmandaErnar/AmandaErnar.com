@@ -1,12 +1,12 @@
 * {
-    margin: 0;
     color: white;
-    background: #a7b7d7;
+    background: #a7b7d7;    
     font-family: century-old-style-std, serif;
     padding: 1rem;
 }
 
 main {
+    padding: 1rem;    
     margin: 2rem auto;
     max-width: 40rem;
     padding: 2rem;
@@ -22,8 +22,7 @@ header {
 ul {
     margin: 0;
     list-style-type: none;
-    display: flex;
-    gap: 1rem;
+    padding: 0;
 }
 
 a {

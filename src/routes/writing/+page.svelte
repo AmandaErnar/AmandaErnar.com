@@ -1,5 +1,17 @@
-<p>To-do: create function in here that turns a markdown file from /src/routes/writing/ and turns it into a link on this page</p>
-<a href='writing/why_we_write_at_a_fifth_grade_level'>Why We Write at a Fifth Grade Level</a>
-<a href='writing/jasmine'>Jasmine</a>
-<a href='writing/alison'>Alison</a>
+<script>
+export let data
+</script>
+
+<ul>
+  {#each data.posts as post}
+    <li>
+      <h2>
+        &rarr; <a href={post.path} style='background: none; padding: 0;'>
+          {post.meta.title}
+        </a>
+      </h2>
+      Written {post.meta.date}
+    </li>
+  {/each}
+</ul>
 
