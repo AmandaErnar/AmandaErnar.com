@@ -1,5 +1,5 @@
 <div>
-    <h1 style='font-size: 75px;'>amandaernar.com</h1>
+    <h1 style='font-size: 5rem;'>amandaernar.com</h1>
     <h3>
         <q style='background: none; font-family: schoolbook-condensed, serif;'>He who fights with monsters should look to it that he himself does not become a monster.</q>
     </h3>
@@ -7,10 +7,10 @@
 </div>
 <hr style='border: none;'>
 <div>
-    <img src='img/teton_river.jpg' style='height: 200px;' class='rotate' alt='teton river'>
-    <img src='img/first_concert.png' style='height: 200px;' class='rotate' alt='first concert'>
-    <img src='img/nature.jpeg' style='height: 200px;' class='rotate' alt='nature'>
-    <img src='img/childhood_spirit.jpg' style='height: 200px;' class='rotate' alt='childhood spirit'>
+    <img src='img/teton_river.jpg' style='height: 12rem;' class='rotate' alt='teton river'>
+    <img src='img/first_concert.png' style='height: 12rem;' class='rotate' alt='first concert'>
+    <img src='img/nature.jpeg' style='height: 12rem;' class='rotate' alt='nature'>
+    <img src='img/childhood_spirit.jpg' style='height: 12rem;' class='rotate' alt='childhood spirit'>
 </div>
 <br>
 <div>
@@ -31,4 +31,3 @@
         
     </ul>
 </div>
-<hr style='border: none; height: 100px;'>

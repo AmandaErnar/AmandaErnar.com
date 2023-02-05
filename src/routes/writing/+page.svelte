@@ -3,7 +3,7 @@ export let data
 </script>
 
 <h1>Writing</h1>
-
+<hr style='border: none; height: 2rem;'>
 <ul>
   {#each data.posts as post}
     <li>
