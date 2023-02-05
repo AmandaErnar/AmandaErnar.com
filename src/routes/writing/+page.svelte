@@ -6,7 +6,7 @@ export let data
   {#each data.posts as post}
     <li>
       <h2>
-        &rarr; <a href={post.path} style='background: none; padding: 0;'>
+        <a href={post.path} style='background: none; padding: 0;'>
           {post.meta.title}
         </a>
       </h2>

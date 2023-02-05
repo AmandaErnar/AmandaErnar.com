@@ -1,11 +1,12 @@
 <svelte:head>
+    <title>Amanda Ernar</title>
     <link rel="stylesheet" href="https://use.typekit.net/xlg6gju.css">
     <link rel="stylesheet" href="/global.css">
 </svelte:head>
 
 <header>
     <a href="/">
-        <img src='/img/2.png' alt='Home' style='height: 75px'>
+        <img src='/favicon.png' alt='Home' style='height: 75px'>
     </a>
 
   <nav>
@@ -15,6 +16,9 @@
     </li>
     <li>
         <a href="/projects">Projects</a>
+    </li>
+    <li>
+        <a href='/about'>About</a>
     </li>
     </ul>
   </nav>

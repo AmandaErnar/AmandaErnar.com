@@ -4,25 +4,7 @@ date: 8/3/2020
 
 ---
 
-I stared at my bright computer screen and bit my lip anxiously, trying to somewhat proofread my client’s terrible writing. After a good twenty seconds of glossing over their insufferable essay on bee preservation, I heaved a drowsy sigh and squeezed my eyes shut in utter misery.
-
-I shut my laptop and ran my cold fingers through my mousy hair. My elbows waned inward, with my fingers still entwined with tufts of hair, as I began to laugh like a psychopath.
-
-Let’s get something straight: I hated myself. A miserable college dropout who wrote poems and books about sociology. I also proofread writing, which was my primary source of income, but I liked to think of myself as an author. A good, talented author who always got her point across without a hitch. But tragically, most of my work didn’t even make it out into the public.
-
-Not to mention, I was deficient in every vitamin known to man. I had grown quite slim since January, and my complexion was a placid shade of white. I looked as if the soul had already left my body. My fingers were bony and slender, let alone quite cold. I didn’t go outside, but at least I did my chores and exercised to some extent. And I wasn’t in debt like my neighbor, Cassie. Her apartment stank with the sharp scent of weed every time I came over.
-
-Perhaps I was destined to live a miserable life as such. After all, we were all at the mercy of fate. Everything I had yet to do in life was preordained from the very beginning. 
-
-I yawned bodaciously as I stood to get up out of my chair. It was time to take a break, I decided. I shambled over to the kitchen and poured myself a glass of water from the sink, which tasted like hand soap. I made a face. I guess my stupid ass ignored the existence of a water filter inside the fridge, which was, to my luck, empty. I set my cup down into my sink, which was clean for once, and jerked my fridge door shut.
-
-There wasn’t much else inside the fridge, other than a plastic jug filled halfway with milk and a slab of cottage cheese. I’d have to grab lunch at the general store again.
-
-It was six p.m, the time of day when kids begged their parents for five minutes of playtime before dinner, when businessmen came home to their wives and children. For me, this time of day was when I usually had my lunch.
-
-(something happens here)
-
-I stomped over to the living room and locked my door. Then, I tore my medicine cabinet open and grabbed a bottle of tiny green pills. I shook it frantically, desperately trying to get lots to pop out of its lid.
+I tore my medicine cabinet open and grabbed a bottle of tiny green pills. I shook it frantically, desperately trying to get lots to pop out of its lid.
 
 I grabbed a fistful of the flimsy nightgown I was wearing and squeezed it tightly. With my other hand, I stuffed a month’s worth of sleeping pills down my throat and instantly collapsed, a few of them escaping their fate of being swallowed and rattling with freedom as they fell to the floor. My eyes then fluttered shut, leaving my medicine cabinet door open and empty pill bottle left cold on the counter.
 
@@ -43,5 +25,4 @@ The lady smiled wistfully and looked down at the sandy floor, her flaky eyelashe
 “It’s pretty though,” I mumbled, peering at the crashing waves behind her with content. I wiggled my toes contemptuously.
 
 She stared at our surroundings and shrugged. “I guess so,” she sighed, her voice hollow.
-
 
