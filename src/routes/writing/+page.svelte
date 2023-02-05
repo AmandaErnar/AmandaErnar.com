@@ -2,6 +2,8 @@
 export let data
 </script>
 
+<h1>Writing</h1>
+
 <ul>
   {#each data.posts as post}
     <li>

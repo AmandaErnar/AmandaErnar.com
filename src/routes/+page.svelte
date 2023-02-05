@@ -1,19 +1,21 @@
 <div>
-    <h1>amandaernar.com</h1>
-    <p>&spades; &spades; &spades;</p>
+    <h1 style='font-size: 75px;'>amandaernar.com</h1>
     <h3>
-        <q style='background: none;'>He who fights with monsters should look to it that he himself does not become a monster.</q>
+        <q style='background: none; font-family: schoolbook-condensed, serif;'>He who fights with monsters should look to it that he himself does not become a monster.</q>
     </h3>
     <p>Friedrich Nietzsche</p>
 </div>
-<img src='img/teton_river.jpg' style='height: 200px;' class='rotate' alt='teton river'>
-<img src='img/first_concert.png' style='height: 200px;' class='rotate' alt='first concert'>
-<img src='img/nature.jpeg' style='height: 200px;' class='rotate' alt='nature'>
-<img src='img/childhood_spirit.jpg' style='height: 200px;' class='rotate' alt='childhood spirit'>
+<hr style='border: none;'>
 <div>
-    <p>&spades; &spades; &spades;</p>
+    <img src='img/teton_river.jpg' style='height: 200px;' class='rotate' alt='teton river'>
+    <img src='img/first_concert.png' style='height: 200px;' class='rotate' alt='first concert'>
+    <img src='img/nature.jpeg' style='height: 200px;' class='rotate' alt='nature'>
+    <img src='img/childhood_spirit.jpg' style='height: 200px;' class='rotate' alt='childhood spirit'>
+</div>
+<br>
+<div>
     <h2>Who is Amanda Ernar?</h2>
-    <p>Ernar is an author, wordsmith, and musician, as well as a talented artist. She has self-published two children's books as of 2023.</p>
+    <p>Ernar is an author, wordsmith, musician, and a self-proclaimed artist. She has self-published two children's books as of 2023.</p>
     <ul>
         <p style='text-decoration: underline;'>Other random accomplishments:</p>
         <li>
@@ -29,4 +31,4 @@
         
     </ul>
 </div>
-
+<hr style='border: none; height: 100px;'>

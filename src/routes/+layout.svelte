@@ -10,7 +10,7 @@
     </a>
 
   <nav>
-    <ul>
+    <ul style='display: flex; gap: 3rem;'>
       <li>
         <a href="/writing">Writing</a>
     </li>
