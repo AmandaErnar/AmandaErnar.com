@@ -41,3 +41,10 @@ footer {
     text-align: center; 
 }
 
+img {
+    background: none;
+}
+
+.rotate {
+    transform: rotate(-10deg);
+}
