@@ -1,9 +1,7 @@
 * {
-    color: white;
-    background: #a7b7d7;    
+    color: #a7b7d7;
+    background: #373490; 
     font-family: century-old-style-std, serif;
-    padding: 1rem;
-    text-align: center;
 }
 
 main {
@@ -14,7 +12,7 @@ main {
 }
 
 header {
-    padding: 2rem;
+    padding: 4rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -26,10 +24,20 @@ ul {
     padding: 0;
 }
 
+li {
+    font-family: schoolbook-condensed, serif;    
+}
+
+p {
+    font-family: schoolbook-condensed, serif;
+    font-size: 20px;
+}
+
 a {
     text-decoration: none;
     font-style: italic;
-    color: inherit;
+    color: #eb5800;
+    padding: 0;
 }
 
 footer {
@@ -43,6 +51,7 @@ footer {
 
 img {
     background: none;
+    padding: 1rem;
 }
 
 .rotate {
