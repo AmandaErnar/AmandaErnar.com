@@ -1,9 +1,11 @@
 <div>
-    <h1 style='font-size: 5rem;'>amandaernar.com</h1>
-    <h3>
-        <q style='background: none; font-family: schoolbook-condensed, serif;'>He who fights with monsters should look to it that he himself does not become a monster.</q>
-    </h3>
+    <h1>
+        <q style='font-size: 3rem;'>Ultimately, it is the desire, not the desired, that we love.</q>
+    </h1>
     <p>Friedrich Nietzsche</p>
+    <form action="/writing">
+        <input type="submit" value="Read my writing" />
+    </form>
 </div>
 <hr style='border: none;'>
 <div>
@@ -17,7 +19,7 @@
     <h2>Who is Amanda Ernar?</h2>
     <p>Ernar is an author, wordsmith, musician, and a self-proclaimed artist. She has self-published two children's books as of 2023.</p>
     <ul>
-        <p style='text-decoration: underline;'>Other random accomplishments:</p>
+        <p>Other random accomplishments:</p>
         <li>
             &rarr; 2018 Los Angeles County Spelling Bee Finalist
         </li>

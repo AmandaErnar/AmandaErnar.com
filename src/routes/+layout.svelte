@@ -25,5 +25,12 @@
     <slot />
 </main>
 
-<footer>&copy; Amanda Ernar 2023</footer>
+<hr style='height: 3rem;'>
+
+<footer>
+    &copy; Amanda Ernar 2023 |
+    <a href='https://www.github.com/AmandaErnar/'>GitHub</a> |
+    <a href='https://www.instagram.com/amanda.ernar'>Instagram</a> |
+    <a href='https://www.youtube.com/@amandaernar4789'>YouTube</a>
+</footer>
 
