@@ -1,8 +1,14 @@
 * {
     color: #a7b7d7;
-    background: #373490; 
+    font-size: 1.2rem;
     font-family: century-old-style-std, serif;
     padding-bottom: 1rem;
+    background: #373490; 
+}
+
+body {
+    padding-right: 2rem;
+    padding-left: 2rem;
 }
 
 main {
@@ -25,20 +31,29 @@ ul {
     padding: 0;
 }
 
-li {
+li, p {
     font-family: schoolbook-condensed, serif;    
-}
-
-p {
-    font-family: schoolbook-condensed, serif;
-    font-size: 20px;
 }
 
 a {
     text-decoration: none;
     font-style: italic;
     color: #eb5800;
-    padding: 0;
+}
+
+h1 {
+    font-size: 2rem;
+}
+
+input[type=submit] {
+    border: none;
+    background-color: #eb5800;
+    height: 4rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 0.75rem;
+    color: white;
 }
 
 footer {
@@ -48,7 +63,9 @@ footer {
     width: 100%;
     padding-bottom: 3rem;
     padding-top: 3rem;
-    text-align: center; 
+    text-align: center;
+    padding-right: 2rem;
+    padding-left: 2rem;
 }
 
 img {
@@ -58,4 +75,17 @@ img {
 
 .rotate {
     transform: rotate(-10deg);
+}
+
+*::-webkit-scrollbar {
+width: 0.75rem;
+}
+
+*::-webkit-scrollbar-track {
+background: #373490;
+}
+
+*::-webkit-scrollbar-thumb {
+background-color: #eb5800;
+border: none;
 }
