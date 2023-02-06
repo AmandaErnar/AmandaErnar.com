@@ -1,13 +1,13 @@
 * {
     color: #a7b7d7;
-    font-size: 1.2rem;
+    background: #373490;    
+    font-size: 1.1rem;
     font-family: century-old-style-std, serif;
     padding-bottom: 1rem;
-    background: #373490; 
 }
 
 body {
-    padding-right: 2rem;
+    padding-right: 0rem;
     padding-left: 2rem;
 }
 
@@ -66,15 +66,12 @@ footer {
     text-align: center;
     padding-right: 2rem;
     padding-left: 2rem;
+    border: none;
 }
 
 img {
     background: none;
     padding: 1rem;
-}
-
-.rotate {
-    transform: rotate(-10deg);
 }
 
 *::-webkit-scrollbar {
@@ -88,4 +85,13 @@ background: #373490;
 *::-webkit-scrollbar-thumb {
 background-color: #eb5800;
 border: none;
+}
+
+.rotate {
+    transform: rotate(-10deg);
+}
+
+.box {
+    inline-size: 45%;
+    overflow-wrap: break-word;
 }

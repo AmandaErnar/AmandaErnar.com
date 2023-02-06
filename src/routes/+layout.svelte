@@ -6,11 +6,11 @@
 
 <header>
     <a href="/">
-        <img src='/favicon.png' alt='Home' style='height: 75px'>
+        <img src='/favicon.png' alt='Home' style='height: 5rem;'>
     </a>
 
   <nav>
-    <ul style='display: flex; gap: 3rem;'>
+    <ul style='display: flex; gap: 3rem; padding-top: 2rem;'>
       <li>
         <a href="/writing">Writing</a>
     </li>
@@ -25,7 +25,7 @@
     <slot />
 </main>
 
-<hr style='height: 3rem;'>
+<hr style='height: 3rem; border: none;'>
 
 <footer>
     &copy; Amanda Ernar 2023 |
