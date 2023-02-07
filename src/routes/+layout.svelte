@@ -6,7 +6,7 @@
 
 <header>
     <a href="/">
-        <img src='/favicon.png' alt='Home' style='height: 5rem;'>
+        <img src='/favicon.png' alt='Home' style='height: 4rem;'>
     </a>
 
   <nav>

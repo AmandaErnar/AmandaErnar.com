@@ -7,8 +7,8 @@
 }
 
 body {
-    padding-right: 0rem;
-    padding-left: 2rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
 }
 
 main {
@@ -18,7 +18,8 @@ main {
 }
 
 header {
-    padding: 4rem;
+    padding: 1rem;
+    padding-bottom: 0rem;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;

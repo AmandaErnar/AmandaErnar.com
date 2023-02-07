@@ -5,8 +5,9 @@
     <br>
     <br>
     <img src='/img/sam.png' style='height: 300px;' alt='The Adventures of Sam'>
-        <p>This story revolves around Sam, a bacteria known as Staphylococcus aureus, the pathogen that causes staph infections. The Adventures of Sam covers the microbiology, immunology, and medicine for this pathogen.</p>
 </a>
+
+<p>This story revolves around Sam, a bacteria known as Staphylococcus aureus, the pathogen that causes staph infections. The Adventures of Sam covers the microbiology, immunology, and medicine for this pathogen.</p>
 
 <hr style='border: none; height: 1rem;'>
 <a href='https://www.amazon.com/Adventures-Beri-Story-Borrelia-Burgdorferi/dp/B099C28C3L/ref=pd_bxgy_vft_none_img_sccl_1/136-5579438-1068423?pd_rd_w=RZF5Z&content-id=amzn1.sym.7f0cf323-50c6-49e3-b3f9-63546bb79c92&pf_rd_p=7f0cf323-50c6-49e3-b3f9-63546bb79c92&pf_rd_r=1EBYYB4VFQWCJCR8K6Q0&pd_rd_wg=lN6MM&pd_rd_r=68aee9e2-6674-47dc-9ebe-f2cbb3215777&pd_rd_i=B099C28C3L&psc=1' style='font-size: 2rem; background: none;'>

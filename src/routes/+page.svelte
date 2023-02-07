@@ -8,7 +8,7 @@
     </form>
 </div>
 <hr style='border: none;'>
-<div>
+<div style='text-align: center;'>
     <img src='img/teton_river.jpg' style='height: 12rem;' class='rotate' alt='teton river'>
     <img src='img/first_concert.png' style='height: 12rem;' class='rotate' alt='first concert'>
     <img src='img/nature.jpeg' style='height: 12rem;' class='rotate' alt='nature'>
