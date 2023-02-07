@@ -12,10 +12,9 @@ body {
 }
 
 main {
-    padding: 1rem;    
+    padding: 0.2rem;
     margin: 2rem auto;
     max-width: 40rem;
-    padding: 2rem;
 }
 
 header {
@@ -61,8 +60,8 @@ footer {
     left: 0;
     bottom: 0;
     width: 100%;
-    padding-bottom: 3rem;
-    padding-top: 3rem;
+    padding-bottom:2rem;
+    padding-top: 2rem;
     text-align: center;
     padding-right: 2rem;
     padding-left: 2rem;
