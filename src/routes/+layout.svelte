@@ -2,6 +2,7 @@
     <title>Amanda Ernar</title>
     <link rel="stylesheet" href="https://use.typekit.net/xlg6gju.css">
     <link rel="stylesheet" href="/global.css">
+    <meta name="description" content="Sharing my writing, art, and other projects with the world via this little personal blog." />
 </svelte:head>
 
 <header>
