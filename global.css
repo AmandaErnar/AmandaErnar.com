@@ -1,9 +1,9 @@
 * {
     color: #a7b7d7;
     background: #373490;    
-    font-size: 1.1rem;
+    font-size: 1.05rem;
     font-family: century-old-style-std, serif;
-    padding-bottom: 1rem;
+    padding-bottom: 0.75rem;
 }
 
 body {
@@ -21,7 +21,6 @@ header {
     padding: 1rem;
     padding-bottom: 0rem;
     display: flex;
-    flex-wrap: wrap;
     justify-content: space-between;
 }
 
@@ -42,7 +41,7 @@ a {
 }
 
 h1 {
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 input[type=submit] {
@@ -57,16 +56,12 @@ input[type=submit] {
 }
 
 footer {
-    position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    padding-bottom:2rem;
-    padding-top: 2rem;
     text-align: center;
-    padding-right: 2rem;
-    padding-left: 2rem;
     border: none;
+    padding-bottom: 3rem;
 }
 
 img {
