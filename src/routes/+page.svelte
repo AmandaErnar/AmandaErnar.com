@@ -33,3 +33,9 @@
         
     </ul>
 </div>
+<div>
+    Curious about this website?
+    <br>
+    <br>
+    <a href='https://github.com/AmandaErnar/AmandaErnar.com' target='blank'>View code</a>
+</div>
