@@ -1,1 +1,4 @@
-To-do: Create function that turns markdown file in /src/routes/writing/ to link in amandaernar.com/writing
+To-do:
+
+- Add pagination to /writing
+- Add try-catch block to .js files
