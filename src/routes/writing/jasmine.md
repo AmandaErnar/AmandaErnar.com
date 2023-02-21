@@ -4,75 +4,75 @@ date: 2/2/23
 
 ---
 
-I always hated jazz.
+I’ve always hated jazz.
 
-I owned a jazz bar in the dead of Chicago, several blocks up from Millennium Park. It wasn’t well-known or anything. Bored and unable to sleep, I walked in at around midnight.
+I own a jazz bar in the dead of Chicago, several blocks up from Millennium Park. It isn’t well-known or anything. Sleepless and bored, I walk in at around midnight.
 
-My head hung limp over one of its pallid countertops as I brought a warm cigar to my lips. The hour was late. The sun was already bleeding into dawn.
+My head hangs limp over one of its many pallid tabletops. I bring a warm cigar to my mouth, feeling its tip pierce my crumbling lips. It’s getting late. There are no stars tonight, only clouds. Exhaust weaving the city and the sky together.
 
-My heavy-lidded eyes grazed the garish headlines on the television up front. I hoped for good news, but Chicago would always be Chicago. Another fight at an underfunded high school, another official caught having an affair.
+The pianist tonight is a skinny, long-fingered man battering the piano with his hands, his head bobbing with the ill-timed music. The audience seems to be enjoying it. Afterward, his bow is followed by a round of eager, rattling applause. He doesn’t even look at me. 
 
-The pianist that night was a skinny, long-fingered man battering the piano with his hands, his head bobbing with the untimely music. It seemed like the audience was enjoying it. Afterward, his bow was followed by a round of ardent, rattling applause.
+My eyes shut as I try to remember a time before I joined my family in Chicago. Before opening this ridiculous cabaret, when I was studying to become a pianist, up there with Horowitz and Rubinstein. I had dedicated my entire childhood to the hobby.
 
-My eyes shut as I tried to remember a time before I joined my family in Chicago, before opening a ridiculous cabaret, back when my heart fizzed at the idea of becoming a pianist, reinventing the world of classical music. Yet you would have to be somewhat delusional to chase a dream of that capacity, especially after losing a loved one.
+Of course, as did countless other dreams, it fell apart.
 
-Of course, as did countless other dreams, it all fell apart.
+My thoughts drift and marinate in the scenery—the queer murmuring of voices, the clinking of glasses, the trills and peeps of a clarinet player warming up.
 
-I let my thoughts drift and marinate in the grotesque scenery—the queer murmuring of voices, the clinking of glasses, the trills and peeps of a clarinet player warming up.
+__
 
-Suddenly I was back in New York, a city that never seemed to stop and catch its breath. How old was I—sixteen? Seventeen?
+Suddenly I find I’m in New York, a city that never seems to stop and catch its breath. How old am I—sixteen? Seventeen?
 
-The streets were noisy as per usual and the sky bled a deep violet. My dress shoes beat against the grimy, oily streets, my black tie flailing behind me. Strangers barely took notice as I shoved past. A siren wailed somewhere in the distance.
+The silver structures I’m surrounded by are snake-scale under the sinking sun. The streets are noisier than usual, and the sky bleeds a deep violet. My designer shoes are beating against the grimy, oily streets, my black tie flailing behind me. Strangers don’t waver as I shove past. A siren wails somewhere in the distance.
 
-I had left my counseling session with Dr. Tafeen in a hurry, realizing I had to rehearse for the following week’s performance.
+I realize I haven’t taken my medications yet. I’m leaving my grief counseling session in a hurry, realizing that I was about to miss rehearsal for the following week’s performance.
 
-I rounded a filthy street corner and stumbled into a hallway saturated with a strange woody scent. Weber Conservatory, read the letters painted on the textured walls in an ugly bubble font. It was six in the evening and I had not eaten since the other night. My stomach burned. I hadn’t taken my medications that day.
+I round a filthy street corner and stumble into a hallway saturated with the heavy scent of sandalwood. There are no photographs or adornments on the walls. Weber Conservatory, reads the letters painted on the textured walls in an ugly bubble font.
 
-The breath slowly died in my chest as I ran down the hall. I could hear Beethoven’s Archduke murmuring faintly behind the doors ahead, though it sounded funny; the pianist happened to be a little behind schedule.
+It’s six in the evening, and I haven’t eaten since yesterday. My stomach burns. I can hear Beethoven’s Archduke murmuring behind the doors ahead, though it sounds funny; the pianist isn’t there and is a little behind schedule.
 
-A girl stood at the auditorium door, checking the time on her watch. She wore plain, expensive clothing, as if she were in a business meeting. But there was some sort of amusement kindling behind her fringe and heavy makeup. She was like a child dressing to impress the grownups.
+A girl stands at the doors, checking the time on her watch. She’s wearing plain, expensive clothing, like a child dressing to impress the grown-ups. Her fingernails are unkempt from biting. Her socks don’t match. She’s tall and pale, her loveliness drifting to the other end of the hall.
 
-Had I seen her before? There was something nostalgic about her, though I couldn’t tell what it was.
-
-“Late for rehearsal?” She had a sleepy, raspy voice.
+“Late for rehearsal?” She has a sleepy, raspy voice.
 
 “Well, yes, so if you could—”
 
-She laughed, her thumb lingering on her smooth silver bracelet. She had to be a member of the trio, perhaps the violinist. And where was her instrument? “We should ditch,” she grinned.
+She laughs, her thumb lingering on her silver bracelet. “We should ditch.”
 
-It was my turn to laugh. “I can’t miss this.”
+It’s my turn to laugh. “I can’t miss this.”
 
-“And we were both thinking of shooting the others a ‘can’t make it’ text and leaving just now. They probably already think we flaked.”
+“And we were both thinking of shooting the others a ‘can’t make it’ text and leaving just now. They probably already think we aren’t coming.”
 
-I thought about the consequences of leaving for a moment. There would always be rehearsal tomorrow, I told myself.
+I think about the consequences of leaving for a moment.
 
-We decided to leave the building and have a cab take us to the beach. I don’t know why I decided to listen to her. It was like my mind was thinking on its own, adrift in some sort of haze. “Fire Island,” she had said to the driver. 
+We half-wittedly leave the building and have a cab take us to the beach. I don’t know why I listen. “Fire Island,” she says to the driver.
 
-Then it was just us and the cold, empty night, our exposed skin burning with the dry tang of the Atlantic air. The lamplights lit our faces a burning scarlet and turned my smile a cold shade of amber.
+When we get there, there seems to be nothing but us and the cold, empty night, our exposed skin burning with the dry tang of the Atlantic air. The lamplights set us aglow with scarlet and turn my smile a frigid, porcelain shade of amber.
 
-We sat down on the gray sand, laughing under our breaths for no reason. For a while, we spoke about our lives before Weber, embarrassing moments from our childhood, staring into the sky—a creamy cobalt. The ocean lurked below, various artificial lights misting its waters, its waves smashing against the rocks lining the shore.
+We sit ourselves down on the gray sand, laughing under our breaths for no reason. For a while, we speak about our lives before Weber, embarrassing moments from our childhood, staring into the sky—a creamy cobalt. The ocean lurks ahead, various artificial lights misting its waters, its waves smashing against the black rocks tracing the shoreline.
 
-“Would you…would you call yourself a believer in fate?” She asked, her voice humming and repeating in my head.
+My hand gathers a fistful of sand. “Would you call yourself a believer in fate?” She asks. Her voice hums and repeats in my head, making the stars blink and buildings behind us tremble. I close my eyes and try to think of an answer.
 
-I closed my eyes and tried to think of an answer.
+“No not really,” I reply. “I believe in coincidences, though.”
 
-“No, not really,” I finally replied. “I believe in coincidences, though.” My hand absently collected a fistful of sand.
+She tilts her head to the side, grinning. “What do you mean?”
 
-She tilted her head playfully to the side, grinning. “What do you mean?”
+There’s something strange about her, as haunting as she already is. I remind myself I don’t even know her name.
 
-There was something off about her, as haunting as she already was. And I was starting to feel suspicious; I didn't even know her name.
+“Tell me your name first,” I swallow, watching her features shift beneath the lights. She lets out a soft laugh. “Alison.”
 
-“Tell me your name first,” I swallowed, watching her features shift beneath the lights. She smiled. “Jasmine.”
+Alison. “Funny. I used to know someone with that name,” I remember. Then it hits me that I have been here before.
 
-Jasmine. “Funny. I used to know someone with that name,” I remembered, making a face and turning away. “Well, I just don’t think it’s smart to assume everything’s been preordained by the hand of god or whatever.”
+“Well, I just don’t think it’s right to assume everything’s been preordained by the hand of god. It’s the twenty-first century, for god’s sake. I thought we’d moved past that stuff.” A sheepish smile creeps across my face. “I don’t know. What about you?”
 
-I smiled sheepishly. “I don’t know. I’m not one of those spiritual people. Are you?”
+I don’t get a response. The night feels a little emptier.
 
-When I looked back, Jasmine was gone. Then it struck me that she was never there. She had merely been a figure of my imagination. I whisked my head around, looking for her, my chest sinking.
+I relax my hand, and the sand within comes spilling out, falling to the sea of grain beneath.
 
-My phone buzzed from within my pocket. My face whitened at the message I was greeted with. Looks like our cellist had already found a replacement for me.
+My eyes close, and I can hear us performing Beethoven’s Archduke. It’s mournful behind its dizzying, cheerful chords. It sings of something strange. Of a false, momentary joy, perhaps before realization.
 
-I relaxed my hand and the sand that gathered inside fell to the seemingly endless sea of grains beneath.
+I look over my shoulder as my fingers dance over the keys and smile at her.
 
-I remember wondering what Dr. Tafeen would have said.
+__
+
+Maybe if she were really sitting beside me then, laughing at the constellations spinning above our heads....
 
