@@ -1,9 +1,0 @@
-import{S as n,i as h,s as r,k as d,q as u,l as c,m as w,r as f,h as o,b as k,F as p,B as l}from"./index-2ac51392.js";function g(i){let e,s;return{c(){e=d("p"),s=u(`It was a pleasure to kill. It had always been a real thrill, to catch a king or squire off guard and watch their head meet the floor, splat. That day I killed someone special.
-My feet scaled up the Dune, one after the other, stroking the hill’s yellow-grassed back. You could barely make out its shape, as the Dusk had set everything afire with black. It would always be black.
-I felt as if I could swallow the Dusk whole. Constellations spun and waned overhead. The sky fell into a seductive ebon. God, it was beautiful. It was like the universe was flashing me with its reward.
-I thought of the king’s reward. I pictured gold dribbling from my neck like glaze, wine so plush it could dissolve the poor man’s tongue.
-The`)},l(a){e=c(a,"P",{});var t=w(e);s=f(t,`It was a pleasure to kill. It had always been a real thrill, to catch a king or squire off guard and watch their head meet the floor, splat. That day I killed someone special.
-My feet scaled up the Dune, one after the other, stroking the hill’s yellow-grassed back. You could barely make out its shape, as the Dusk had set everything afire with black. It would always be black.
-I felt as if I could swallow the Dusk whole. Constellations spun and waned overhead. The sky fell into a seductive ebon. God, it was beautiful. It was like the universe was flashing me with its reward.
-I thought of the king’s reward. I pictured gold dribbling from my neck like glaze, wine so plush it could dissolve the poor man’s tongue.
-The`),t.forEach(o)},m(a,t){k(a,e,t),p(e,s)},p:l,i:l,o:l,d(a){a&&o(e)}}}const b={title:"Chaos",date:"02/22/2023"};class y extends n{constructor(e){super(),h(this,e,null,g,r,{})}}export{y as default,b as metadata};
