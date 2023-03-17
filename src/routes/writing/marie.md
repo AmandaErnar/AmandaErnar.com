@@ -1,6 +1,6 @@
 ---
-title: The Lonely Woman's Tale
-date: 9/1/21
+title: Marie
+date: 9/1/20
 
 ---
 
@@ -46,21 +46,4 @@ I was supposed to be at the abandoned shopping mall by the children’s hospital
 
 The studio was small and gave off an overbearing scent of citrus and honey. A jumbo-sized bag of cough drops lay ajar on the kitchen counter.
 
-I snatched the keys to my Prius off the cold kitchen countertop, put on the coat hanging from my wooden chair, and slid out the door. Room number 67, I repeated to myself breathlessly as I shut it,  studying the door’s angled frame and gilt finish. I moved in a couple days ago and still didn’t know which room I lived in. It was embarrassing, actually.
-
-I worked my way down the spiraling staircase by floor three’s broken vending machine, finally stumbling upon the dry courtyard and then the parking lot. I found my car—parked between a Mercedes and a rusty BMW—and brought myself inside.
-
-“I'm actually going to kill myself.” I let someone else drive the other night, and the seat was bent all the way forward.
-
-I suddenly realized I wasn’t a great driver. I managed to pull myself out of the parking lot at least a few minutes after I started the engine. The act of driving my musty Pruis was one I actively tried to avoid, and so was the act of looking out the window and into the filthy driveway. As a matter of fact, I failed my driving test six times before the instructor let me pass.
-
-I couldn't help but notice the queer pine trees, literal inches from my nose as I pulled out of the building. Their long stalks branched out into the sky and spouted nasty yellow leaves out of their fat mantles.
-
-Then, the thought drew the breath out of me: I forgot to lock the door. But I kept speeding along Wyandotte Avenue, because who the hell would bother with room number 67?
-
-—
-
-It took two minutes for me to crash.
-
-Fat, air-filled balloons bursted out from the space in front of me, choking off breath. “Motherfucker,” I cursed under my breath, pushing the white sac out of my face. 
-
+I snatched the keys to my Prius off the cold kitchen countertop, put on the coat hanging from my wooden chair, and slid out the door. Room number 67, I repeated to myself breathlessly as I shut it.

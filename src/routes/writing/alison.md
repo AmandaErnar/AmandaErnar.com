@@ -1,6 +1,6 @@
 ---
 title: Alison
-date: 9/30/21
+date: 9/30/20
 
 ---
 
@@ -37,21 +37,7 @@ Her rumination was interrupted by the unpleasant cacophony of arguing between Mr
 
 Alison Baines clenched her jaw and put her earbuds back in, wishing she never even bothered to listen. Her mind was once again flooded with music. She closed her eyes once more, failing to notice her door creaking open.
 
-"Alison~," Mrs. Baines sang, her pallid teeth illuminating the dim bedroom. Alison jerked her earbuds out and cursed under her breath as her mother waltzed into her chambers. "Is dinner ready?" She asked, watching her mother’s erratic gaze dart around the room. It then came to Alison that it was not a great time for visitors. "I hope you aren't hiding anything," her mother crooned, tearing her dresser open.
-
-Alison pursed her lips together and said nothing as her mom rummaged through her belongings and tossed pieces of clothing onto the carpet.
-
-"I'm planning on inviting Jessica over for dinner—like, tonight." Mom put down the I ❤ NY sweatshirt she held to meet Alison's gaze, who decided she was no longer in the mood for visitors. “No.”
-
-Her mother frowned. "Come on, Al," she urged, grabbing Alison’s shoulder, "you can play the piano for her. She's a music teacher!" Alison let out a quivering breath, trembling at the thought of reciting Bach under a pair of judgemental eyes. “No.”
-
-Mrs. Baines opened her mouth to argue but was interrupted by the kitchen timer going off. "I'll be back!" She smiled as she whisked herself out of the bedroom. The door was left ajar.
-
-Alison sighed as she got up out of her chair to close it, taking note of the muffled squeals of utter, unadulterated joy coming from outside. She took a seat at her desk, wishing that she were once again seven years old, running around frivolously under the blazing sun.
-
-She noticed her deft fingers begin fidgeting with the tangled frenzy of headphone wire dangling from her neck, another heavy breath escaping her lips. Alison closed her eyes and tried to think of her future, which came to her in a whirl of various images. Of her attending fan events, composing film music, painting on broad canvases, and doing all sorts of other pretentious activities.
-
-Her lips twisted into a frown. She had no idea where she was headed in life. She knew the last thing she wanted was to end up like her father— who worked a nine-to-five job slouching in front of a computer screen, his marriage failing and his eldest daughter writhing in a depressive state.
+She had no idea where she was headed in life. She knew the last thing she wanted was to end up like her father— who worked a nine-to-five job slouching in front of a computer screen, his marriage failing and his eldest daughter writhing in a depressive state.
 
 It seemed to her that her lifeless soul was headed in the same direction. Either that, or she would die a very unfortunate death before she became an adult. 
 
