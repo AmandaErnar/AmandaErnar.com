@@ -29,9 +29,10 @@
 <hr style='height: 3rem; border: none;'>
 
 <footer>
-    &copy; Amanda Ernar 2023 |
-    <a href='https://www.github.com/AmandaErnar/'>GitHub</a> |
-    <a href='https://www.instagram.com/amanda.ernar'>Instagram</a> |
-    <a href='https://www.youtube.com/@amandaernar4789'>YouTube</a>
+  &copy; Copyright Amanda Ernar 2023 /
+  <a href='https://www.github.com/AmandaErnar/'>GitHub</a> /
+  <a href='https://www.instagram.com/amanda.ernar'>Instagram</a> /
+  <a href='https://www.youtube.com/@amandaernar4789'>YouTube</a> /
+    <a href="https://github.com/AmandaErnar/AmandaErnar.com">View Code</a>
 </footer>
 

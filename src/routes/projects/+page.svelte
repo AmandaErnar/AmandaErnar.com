@@ -1,5 +1,10 @@
 <h1>Projects</h1>
 <br>
+<a href='/meme_generator'>
+    Meme Generator
+</a>
+<br>
+<p>Upload any image of your choosing and add some text to it to make the most epic funniest meme ever. Heads up: I made this when I was 11.</p>
 <a href='https://www.amazon.com/Adventures-Sam-Story-Staphylococcus-Aureus-ebook/dp/B09MBJ71QZ/ref=sr_1_1?crid=1ZZPKN3BXSZ4F&keywords=amanda+ernar&qid=1675628887&sprefix=amanda+ern%2Caps%2C324&sr=8-1' style='font-size: 2rem; background: none;'>
     The Adventures of Sam: The Story of Staphylococcus Aureus
     <br>
@@ -23,8 +28,3 @@
 <p>This story revolves around Beri, a bacteria known as Borrelia burgdorferi, the pathogen that causes Lyme disease. The Adventures of Beri covers the microbiology, immunology, and medicine of this pathogen.</p>
 <hr style='border: none; height: 1rem;'>
 
-<a href='https://amandaernar.github.io/MemeGenerator' target='_blank' style='font-size: 2rem; background: none;' rel='noreferrer'>
-    Meme Generator
-</a>
-<br>
-<p>This one's pretty old, but at least it still works. Upload any image of your choosing and add some text to it to make the most epic funniest meme ever.</p>

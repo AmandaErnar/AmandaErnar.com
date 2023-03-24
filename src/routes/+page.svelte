@@ -9,8 +9,8 @@
 </div>
 <hr style='border: none;'>
 <div style='text-align: center;'>
-    <img src='img/first_concert.png' style='height: 12rem;' class='rotate' alt='first concert, grade 5'>
-    <img src='img/mmm.png' style='height: 12rem;' class='rotate' alt='pink flower'>            
+    <img src='img/evening_landscape_with_two_men.jpg' style='height: 25rem' alt='the cemetery enterance by casper david friedrich'>
+    <p>"Evening Landscape with Two Men", 1830-1835, Casper David Friedrich, 1822</p>
 </div>
 <br>
 <div>
@@ -33,9 +33,6 @@
         </li>
     </ul>
 </div>
-<div>
-    Curious about this website?
-    <br>
-    <br>
-    <a href='https://github.com/AmandaErnar/AmandaErnar.com' target='blank'>View code</a>
+<div style="text-align: center;">
+    <img src='img/first_concert.png' style='height: 22rem;' alt='first concert, grade 5'>
 </div>
