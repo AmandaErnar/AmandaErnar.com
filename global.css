@@ -50,7 +50,8 @@ h1 {
 }
 
 input[type=submit] {
-    border: none;
+    border: 0rem;
+    border-radius: 0rem;
     background-color: #D7A97B;
     height: 4rem;
     padding-bottom: 1rem;
