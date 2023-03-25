@@ -5,8 +5,126 @@
       "_index-2ac51392.js"
     ]
   },
+  "src/routes/+error.svelte": {
+    "file": "_app/immutable/components/pages/_error.svelte-10c89785.js",
+    "src": "src/routes/+error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-2ac51392.js",
+      "_singletons-080714ff.js"
+    ]
+  },
+  "_preload-helper-41c905a7.js": {
+    "file": "_app/immutable/chunks/preload-helper-41c905a7.js"
+  },
+  ".svelte-kit/generated/nodes/6.js": {
+    "file": "_app/immutable/chunks/6-f9ea69ab.js",
+    "src": ".svelte-kit/generated/nodes/6.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "__page-6c67533b.js",
+      "src/routes/writing/[slug]/+page.svelte"
+    ]
+  },
+  "src/routes/writing/dylan.md": {
+    "file": "_app/immutable/chunks/dylan-c11b720d.js",
+    "src": "src/routes/writing/dylan.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-2ac51392.js"
+    ]
+  },
+  "src/routes/writing/[slug]/+page.svelte": {
+    "file": "_app/immutable/components/pages/writing/_slug_/_page.svelte-53c26fea.js",
+    "src": "src/routes/writing/[slug]/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-2ac51392.js"
+    ]
+  },
+  "src/routes/+layout.svelte": {
+    "file": "_app/immutable/components/pages/_layout.svelte-c7df87ac.js",
+    "src": "src/routes/+layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-2ac51392.js"
+    ]
+  },
+  ".svelte-kit/generated/nodes/4.js": {
+    "file": "_app/immutable/chunks/4-02503e67.js",
+    "src": ".svelte-kit/generated/nodes/4.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/projects/+page.svelte"
+    ]
+  },
+  "src/routes/writing/[slug]/+page.js": {
+    "file": "_app/immutable/modules/pages/writing/_slug_/_page.js-22adfb19.js",
+    "src": "src/routes/writing/[slug]/+page.js",
+    "isEntry": true,
+    "imports": [
+      "_preload-helper-41c905a7.js",
+      "__page-6c67533b.js"
+    ]
+  },
+  "src/routes/writing/why_we_write_at_a_fifth_grade_level.md": {
+    "file": "_app/immutable/chunks/why_we_write_at_a_fifth_grade_level-283f1978.js",
+    "src": "src/routes/writing/why_we_write_at_a_fifth_grade_level.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-2ac51392.js"
+    ]
+  },
+  ".svelte-kit/generated/nodes/2.js": {
+    "file": "_app/immutable/chunks/2-4654b1da.js",
+    "src": ".svelte-kit/generated/nodes/2.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/+page.svelte"
+    ]
+  },
+  "src/routes/writing/+page.js": {
+    "file": "_app/immutable/modules/pages/writing/_page.js-8f5a55c7.js",
+    "src": "src/routes/writing/+page.js",
+    "isEntry": true,
+    "imports": [
+      "__page-a5e8a8ff.js"
+    ]
+  },
+  "src/routes/writing/a_black_truth.md": {
+    "file": "_app/immutable/chunks/a_black_truth-7ae931cc.js",
+    "src": "src/routes/writing/a_black_truth.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-2ac51392.js"
+    ]
+  },
+  "src/routes/+layout.js": {
+    "file": "_app/immutable/modules/pages/_layout.js-9cbb603b.js",
+    "src": "src/routes/+layout.js",
+    "isEntry": true,
+    "imports": [
+      "__layout-da46b06b.js"
+    ]
+  },
+  "src/routes/writing/affliction.md": {
+    "file": "_app/immutable/chunks/affliction-76ce5c62.js",
+    "src": "src/routes/writing/affliction.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-2ac51392.js"
+    ]
+  },
   "__layout-da46b06b.js": {
     "file": "_app/immutable/chunks/_layout-da46b06b.js"
+  },
+  "src/routes/writing/alison.md": {
+    "file": "_app/immutable/chunks/alison-d24dea12.js",
+    "src": "src/routes/writing/alison.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-2ac51392.js"
+    ]
   },
   ".svelte-kit/generated/nodes/1.js": {
     "file": "_app/immutable/chunks/1-498f894f.js",
@@ -14,6 +132,22 @@
     "isDynamicEntry": true,
     "imports": [
       "src/routes/+error.svelte"
+    ]
+  },
+  "src/routes/+page.svelte": {
+    "file": "_app/immutable/components/pages/_page.svelte-b2e19654.js",
+    "src": "src/routes/+page.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-2ac51392.js"
+    ]
+  },
+  "src/routes/writing/butterflies_and_blue.md": {
+    "file": "_app/immutable/chunks/butterflies_and_blue-b1f507d2.js",
+    "src": "src/routes/writing/butterflies_and_blue.md",
+    "isDynamicEntry": true,
+    "imports": [
+      "_index-2ac51392.js"
     ]
   },
   ".svelte-kit/generated/nodes/0.js": {
@@ -25,73 +159,10 @@
       "src/routes/+layout.svelte"
     ]
   },
-  ".svelte-kit/generated/nodes/2.js": {
-    "file": "_app/immutable/chunks/2-4654b1da.js",
-    "src": ".svelte-kit/generated/nodes/2.js",
+  "src/routes/writing/jasmine.md": {
+    "file": "_app/immutable/chunks/jasmine-d5f9e456.js",
+    "src": "src/routes/writing/jasmine.md",
     "isDynamicEntry": true,
-    "imports": [
-      "src/routes/+page.svelte"
-    ]
-  },
-  ".svelte-kit/generated/nodes/3.js": {
-    "file": "_app/immutable/chunks/3-7c7ea500.js",
-    "src": ".svelte-kit/generated/nodes/3.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "src/routes/gallery/+page.svelte"
-    ]
-  },
-  ".svelte-kit/generated/nodes/4.js": {
-    "file": "_app/immutable/chunks/4-36118dc5.js",
-    "src": ".svelte-kit/generated/nodes/4.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "src/routes/projects/+page.svelte"
-    ]
-  },
-  ".svelte-kit/generated/nodes/5.js": {
-    "file": "_app/immutable/chunks/5-93d419e6.js",
-    "src": ".svelte-kit/generated/nodes/5.js",
-    "isDynamicEntry": true,
-    "imports": [
-      "__page-a5e8a8ff.js",
-      "src/routes/writing/+page.svelte"
-    ]
-  },
-  "src/routes/+layout.svelte": {
-    "file": "_app/immutable/components/pages/_layout.svelte-c7df87ac.js",
-    "src": "src/routes/+layout.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-2ac51392.js"
-    ]
-  },
-  "src/routes/writing/+page.svelte": {
-    "file": "_app/immutable/components/pages/writing/_page.svelte-6c451800.js",
-    "src": "src/routes/writing/+page.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-2ac51392.js"
-    ]
-  },
-  "src/routes/gallery/+page.svelte": {
-    "file": "_app/immutable/components/pages/gallery/_page.svelte-e27044bd.js",
-    "src": "src/routes/gallery/+page.svelte",
-    "isEntry": true,
-    "imports": [
-      "_index-2ac51392.js"
-    ]
-  },
-  "_preload-helper-41c905a7.js": {
-    "file": "_app/immutable/chunks/preload-helper-41c905a7.js"
-  },
-  "__page-a5e8a8ff.js": {
-    "file": "_app/immutable/chunks/_page-a5e8a8ff.js"
-  },
-  "src/routes/writing/[slug]/+page.svelte": {
-    "file": "_app/immutable/components/pages/writing/_slug_/_page.svelte-53c26fea.js",
-    "src": "src/routes/writing/[slug]/+page.svelte",
-    "isEntry": true,
     "imports": [
       "_index-2ac51392.js"
     ]
@@ -112,77 +183,63 @@
       "src/routes/writing/why_we_write_at_a_fifth_grade_level.md"
     ]
   },
-  ".svelte-kit/generated/nodes/6.js": {
-    "file": "_app/immutable/chunks/6-f9ea69ab.js",
-    "src": ".svelte-kit/generated/nodes/6.js",
+  "__page-a5e8a8ff.js": {
+    "file": "_app/immutable/chunks/_page-a5e8a8ff.js"
+  },
+  "_index-2ac51392.js": {
+    "file": "_app/immutable/chunks/index-2ac51392.js"
+  },
+  "src/routes/writing/marie.md": {
+    "file": "_app/immutable/chunks/marie-8c826825.js",
+    "src": "src/routes/writing/marie.md",
     "isDynamicEntry": true,
     "imports": [
-      "__page-6c67533b.js",
-      "src/routes/writing/[slug]/+page.svelte"
+      "_index-2ac51392.js"
     ]
   },
-  "src/routes/+page.svelte": {
-    "file": "_app/immutable/components/pages/_page.svelte-b2e19654.js",
-    "src": "src/routes/+page.svelte",
+  ".svelte-kit/generated/nodes/5.js": {
+    "file": "_app/immutable/chunks/5-93d419e6.js",
+    "src": ".svelte-kit/generated/nodes/5.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "__page-a5e8a8ff.js",
+      "src/routes/writing/+page.svelte"
+    ]
+  },
+  "src/routes/gallery/+page.svelte": {
+    "file": "_app/immutable/components/pages/gallery/_page.svelte-e27044bd.js",
+    "src": "src/routes/gallery/+page.svelte",
     "isEntry": true,
     "imports": [
       "_index-2ac51392.js"
     ]
   },
+  ".svelte-kit/generated/nodes/3.js": {
+    "file": "_app/immutable/chunks/3-7c7ea500.js",
+    "src": ".svelte-kit/generated/nodes/3.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "src/routes/gallery/+page.svelte"
+    ]
+  },
   "src/routes/projects/+page.svelte": {
-    "file": "_app/immutable/components/pages/projects/_page.svelte-e1a6edfe.js",
+    "file": "_app/immutable/components/pages/projects/_page.svelte-e1cf12cc.js",
     "src": "src/routes/projects/+page.svelte",
     "isEntry": true,
     "imports": [
       "_index-2ac51392.js"
     ]
   },
-  "_index-2ac51392.js": {
-    "file": "_app/immutable/chunks/index-2ac51392.js"
-  },
-  "src/routes/+error.svelte": {
-    "file": "_app/immutable/components/pages/_error.svelte-10c89785.js",
-    "src": "src/routes/+error.svelte",
+  "src/routes/writing/+page.svelte": {
+    "file": "_app/immutable/components/pages/writing/_page.svelte-6c451800.js",
+    "src": "src/routes/writing/+page.svelte",
     "isEntry": true,
-    "imports": [
-      "_index-2ac51392.js",
-      "_singletons-080714ff.js"
-    ]
-  },
-  "src/routes/writing/butterflies_and_blue.md": {
-    "file": "_app/immutable/chunks/butterflies_and_blue-b1f507d2.js",
-    "src": "src/routes/writing/butterflies_and_blue.md",
-    "isDynamicEntry": true,
-    "imports": [
-      "_index-2ac51392.js"
-    ]
-  },
-  "src/routes/writing/a_black_truth.md": {
-    "file": "_app/immutable/chunks/a_black_truth-7ae931cc.js",
-    "src": "src/routes/writing/a_black_truth.md",
-    "isDynamicEntry": true,
-    "imports": [
-      "_index-2ac51392.js"
-    ]
-  },
-  "src/routes/writing/affliction.md": {
-    "file": "_app/immutable/chunks/affliction-76ce5c62.js",
-    "src": "src/routes/writing/affliction.md",
-    "isDynamicEntry": true,
-    "imports": [
-      "_index-2ac51392.js"
-    ]
-  },
-  "src/routes/writing/alison.md": {
-    "file": "_app/immutable/chunks/alison-d24dea12.js",
-    "src": "src/routes/writing/alison.md",
-    "isDynamicEntry": true,
     "imports": [
       "_index-2ac51392.js"
     ]
   },
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-d215c4d9.js",
+    "file": "_app/immutable/start-5abbed38.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
@@ -198,63 +255,6 @@
       ".svelte-kit/generated/nodes/4.js",
       ".svelte-kit/generated/nodes/5.js",
       ".svelte-kit/generated/nodes/6.js"
-    ]
-  },
-  "src/routes/writing/dylan.md": {
-    "file": "_app/immutable/chunks/dylan-c11b720d.js",
-    "src": "src/routes/writing/dylan.md",
-    "isDynamicEntry": true,
-    "imports": [
-      "_index-2ac51392.js"
-    ]
-  },
-  "src/routes/writing/marie.md": {
-    "file": "_app/immutable/chunks/marie-8c826825.js",
-    "src": "src/routes/writing/marie.md",
-    "isDynamicEntry": true,
-    "imports": [
-      "_index-2ac51392.js"
-    ]
-  },
-  "src/routes/writing/+page.js": {
-    "file": "_app/immutable/modules/pages/writing/_page.js-8f5a55c7.js",
-    "src": "src/routes/writing/+page.js",
-    "isEntry": true,
-    "imports": [
-      "__page-a5e8a8ff.js"
-    ]
-  },
-  "src/routes/writing/jasmine.md": {
-    "file": "_app/immutable/chunks/jasmine-d5f9e456.js",
-    "src": "src/routes/writing/jasmine.md",
-    "isDynamicEntry": true,
-    "imports": [
-      "_index-2ac51392.js"
-    ]
-  },
-  "src/routes/writing/[slug]/+page.js": {
-    "file": "_app/immutable/modules/pages/writing/_slug_/_page.js-22adfb19.js",
-    "src": "src/routes/writing/[slug]/+page.js",
-    "isEntry": true,
-    "imports": [
-      "_preload-helper-41c905a7.js",
-      "__page-6c67533b.js"
-    ]
-  },
-  "src/routes/+layout.js": {
-    "file": "_app/immutable/modules/pages/_layout.js-9cbb603b.js",
-    "src": "src/routes/+layout.js",
-    "isEntry": true,
-    "imports": [
-      "__layout-da46b06b.js"
-    ]
-  },
-  "src/routes/writing/why_we_write_at_a_fifth_grade_level.md": {
-    "file": "_app/immutable/chunks/why_we_write_at_a_fifth_grade_level-283f1978.js",
-    "src": "src/routes/writing/why_we_write_at_a_fifth_grade_level.md",
-    "isDynamicEntry": true,
-    "imports": [
-      "_index-2ac51392.js"
     ]
   }
 }
