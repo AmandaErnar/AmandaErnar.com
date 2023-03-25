@@ -1,6 +1,6 @@
 <h1>Projects</h1>
 <br>
-<a href='https://amandaernar.github.io/MemeGenerator/' target='_blank'>
+<a href='https://amandaernar.github.io/MemeGenerator/' target='_blank' rel='noreferrer'>
     Meme Generator
 </a>
 <br>
