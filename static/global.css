@@ -1,8 +1,8 @@
 * {
     color: #D1CFC1;
-    background: #5F6785;    
+    background: #8B9A90;    
     font-size: 1.05rem;
-    font-family: century-old-style-std, serif;
+    font-family: "richler-pro-pe", serif;
     padding-bottom: 0.75rem;
     animation: fadeInAnimation ease 1s;
     animation-iteration-count: 1;
@@ -80,7 +80,7 @@ width: 0.75rem;
 }
 
 *::-webkit-scrollbar-track {
-background: #5F6785;
+background: #8B9A90;
 }
 
 *::-webkit-scrollbar-thumb {
