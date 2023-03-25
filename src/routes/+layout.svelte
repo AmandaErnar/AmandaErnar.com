@@ -18,6 +18,9 @@
     <li>
         <a href="/projects">Projects</a>
     </li>
+    <li>
+        <a href="/gallery">Gallery</a>
+    </li>
     </ul>
   </nav>
 </header>

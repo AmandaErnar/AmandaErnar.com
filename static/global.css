@@ -1,6 +1,6 @@
 * {
-    color: #D1CFC1;
-    background: #8B9A90;    
+    color: #afbfcc;
+    background: #f0f4f3;    
     font-size: 1.05rem;
     font-family: "richler-pro-pe", serif;
     padding-bottom: 0.75rem;
@@ -26,7 +26,7 @@ header {
     padding-top: 0.2rem;
     display: flex;
     justify-content: space-between;
-    color: #EBE9DA;
+    color: #ebe9da;
 }
 
 ul {
@@ -41,24 +41,24 @@ li, p {
 
 a {
     text-decoration: none;
-    color: #D7A97B;
+    color: #4F5C73;
     font-weight: 1rem;
 }
 
 h1 {
-    font-size: 1rem;
+    font-size: 2rem;
 }
 
 input[type=submit] {
     border: 0rem;
-    border-radius: 0rem;
-    background-color: #D7A97B;
+    border-radius: -10rem;
+    background-color: #4F5C73;
     height: 4rem;
     padding-bottom: 1rem;
     padding-left: 1rem;
     padding-right: 1rem;
     padding-top: 0.75rem;
-    color: #E0DECE
+    color: #f3f4f0
 }
 
 footer {
@@ -75,16 +75,20 @@ img {
     padding: 1rem;
 }
 
+img:hover {
+    opacity: 0%;
+}
+
 *::-webkit-scrollbar {
 width: 0.75rem;
 }
 
 *::-webkit-scrollbar-track {
-background: #8B9A90;
+background: #f3f4f0;
 }
 
 *::-webkit-scrollbar-thumb {
-background-color: #D7A97B;
+background-color: #4f5c73;
 border: none;
 }
 
@@ -102,6 +106,10 @@ border: none;
     overflow-wrap: break-word;
 }
 
+.gallery {
+    height: 16rem;
+}
+
 @keyframes fadeInAnimation {
     0% {
         opacity: 0;
@@ -110,3 +118,4 @@ border: none;
         opacity: 1;
      }
 }
+

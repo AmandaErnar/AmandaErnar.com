@@ -9,8 +9,8 @@
 </div>
 <hr style='border: none;'>
 <div style='text-align: center;'>
-    <img src='img/evening_landscape_with_two_men.jpg' style='height: 25rem' alt='the cemetery enterance by casper david friedrich'>
-    <p>"Evening Landscape with Two Men", 1830-1835, Casper David Friedrich, 1822</p>
+    <img src='img/evening_landscape_with_two_men.jpg' style='height: 22em;' alt='the cemetery enterance by casper david friedrich'>
+    <p>"Evening Landscape with Two Men", 1830-1835, Casper David Friedrich</p>
 </div>
 <br>
 <div>
@@ -34,5 +34,5 @@
     </ul>
 </div>
 <div style="text-align: center;">
-    <img src='img/first_concert.png' style='height: 22rem;' alt='first concert, grade 5'>
+    <img src='img/first_concert.png' style='height: 19em;' alt='first concert, grade 5'>
 </div>
