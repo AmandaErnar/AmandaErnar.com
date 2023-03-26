@@ -41,6 +41,10 @@ li, p {
     font-family: schoolbook-condensed, serif;    
 }
 
+nav {
+    padding-top: 1rem;
+}
+
 a {
     text-decoration: none;
     color: #4F5C73;
