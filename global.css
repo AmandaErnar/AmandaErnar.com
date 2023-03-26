@@ -1,6 +1,6 @@
 * {
     color: #afbfcc;
-    background: #f0f4f3;    
+    background: #f0f4f3;
     font-size: 1.05rem;
     font-family: "richler-pro-pe", serif;
     padding-bottom: 0.75rem;
@@ -21,21 +21,19 @@ main {
 }
 
 header {
-    position: fixed;
-    height: 100%;
-    margin: 0rem;
-    width: 30%;
     padding: 1rem;
     padding-top: 0.2rem;
     display: flex;
-    justify-content: left;
+    flex-wrap: wrap;
     color: #ebe9da;
+    justify-content: space-between;
 }
 
 ul {
     margin: 0;
     list-style-type: none;
-    padding: 0;
+    padding: 1rem;
+    gap: 1rem;
 }
 
 li, p {
