@@ -36,6 +36,10 @@ ul {
     gap: 1rem;
 }
 
+nav {
+    padding: 1rem;
+}
+
 li, p {
     font-family: schoolbook-condensed, serif;    
 }

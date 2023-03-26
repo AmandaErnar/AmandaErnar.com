@@ -6,7 +6,7 @@
 </svelte:head>
 
 <header style='padding: 1rem; padding-left: -1rem;'>
-  <a href="/">
+  <a href="/" style='justify-content: space-around;'>
     <img class='favicon' src='/favicon.png' alt='Home' style='height: 4rem;'>
   </a>
         <nav>
