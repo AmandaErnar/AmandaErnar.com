@@ -4,12 +4,12 @@
     </h1>
     <p>Friedrich Nietzsche</p>
     <form action="/writing">
-        <input type="submit" value="Read my writing" />
+        <input type="submit" class="button-58" value="Read my writing" />
     </form>
 </div>
 <hr style='border: none;'>
 <div style='text-align: center;'>
-    <img src='img/evening_landscape_with_two_men.jpg' style='height: 400px;' alt='the cemetery enterance by casper david friedrich'>
+    <img src='img/evening_landscape_with_two_men.jpg' style='width: 80%;' alt='the cemetery enterance by casper david friedrich'>`
     <p>"Evening Landscape with Two Men", 1830-1835, Casper David Friedrich</p>
 </div>
 <br>
@@ -34,5 +34,5 @@
     </ul>
 </div>
 <div style="text-align: center;">
-    <img src='img/first_concert.png' style='height: 300px;' alt='first concert, grade 5'>
+    <img src='img/first_concert.png' style='width: 80%;' alt='first concert, grade 5'>
 </div>

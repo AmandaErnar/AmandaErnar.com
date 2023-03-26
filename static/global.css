@@ -25,7 +25,7 @@ header {
     padding-bottom: 0rem;
     padding-top: 0.2rem;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     color: #ebe9da;
 }
 
@@ -51,7 +51,7 @@ h1 {
 
 input[type=submit] {
     border: 0rem;
-    border-radius: -25rem;
+    border-radius: -50rem;
     background-color: #4F5C73;
     height: 4rem;
     padding-bottom: 1rem;
@@ -93,7 +93,7 @@ border: none;
 }
 
 .favicon {
-    padding-left: 0rem;
+    padding-left: -5rem;
     padding-top: 2rem;
 }
 
