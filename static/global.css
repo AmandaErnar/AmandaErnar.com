@@ -16,13 +16,14 @@ body {
 
 main {
     padding: 0.2rem;
+    padding-top: 0rem;
     margin: 2rem auto;
     max-width: 40rem;
 }
 
 header {
-    padding: 1rem;
     padding-top: 0.2rem;
+    padding-bottom: -1rem;
     display: flex;
     flex-wrap: wrap;
     color: #ebe9da;
@@ -36,12 +37,12 @@ ul {
     gap: 1rem;
 }
 
-nav {
-    padding: 1rem;
-}
-
 li, p {
     font-family: schoolbook-condensed, serif;    
+}
+
+nav {
+    padding-top: 1rem;
 }
 
 a {

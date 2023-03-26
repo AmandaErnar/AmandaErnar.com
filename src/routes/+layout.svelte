@@ -5,7 +5,7 @@
     <meta name="description" content="Sharing my writing, art, and other projects with the world via this little personal blog." />
 </svelte:head>
 
-<header style='padding: 1rem; padding-left: -1rem;'>
+<header style='padding-left: -1rem; padding-top: 1rem;'>
   <a href="/" style='justify-content: space-around;'>
     <img class='favicon' src='/favicon.png' alt='Home' style='height: 4rem;'>
   </a>
@@ -25,7 +25,7 @@
     <slot />
 </main>
 
-<hr style='height: 3rem; border: none;'>
+<hr style='height: 2rem; border: none;'>
 
 <footer>
   &copy; Copyright Amanda Ernar 2023 /
