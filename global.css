@@ -21,11 +21,14 @@ main {
 }
 
 header {
+    position: fixed;
+    height: 100%;
+    margin: 0rem;
+    width: 30%;
     padding: 1rem;
-    padding-bottom: 0rem;
     padding-top: 0.2rem;
     display: flex;
-    justify-content: space-around;
+    justify-content: left;
     color: #ebe9da;
 }
 
@@ -58,7 +61,7 @@ input[type=submit] {
     padding-left: 1rem;
     padding-right: 1rem;
     padding-top: 0.75rem;
-    color: #f3f4f0
+    color: #ffffff
 }
 
 footer {
@@ -118,4 +121,3 @@ border: none;
         opacity: 1;
      }
 }
-
