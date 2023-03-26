@@ -5,25 +5,23 @@
     <meta name="description" content="Sharing my writing, art, and other projects with the world via this little personal blog." />
 </svelte:head>
 
-<header>
+  <header style='float: center;'>
+    <div style='text-align: center;'>
     <a href="/">
-        <img class='favicon' src='/favicon.png' alt='Home' style='height: 4rem;'>
+      <img class='favicon' src='/favicon.png' alt='Home' style='height: 4rem;'>
     </a>
-
-  <nav>
-    <ul style='display: flex; gap: 3rem; padding-top: 2rem;'>
-      <li>
-        <a href="/writing">Writing</a>
-    </li>
-    <li>
-        <a href="/projects">Projects</a>
-    </li>
-    <li>
-        <a href="/gallery">Gallery</a>
-    </li>
-    </ul>
-  </nav>
-</header>
+        <nav>
+        <ul id='sidebar'>
+          <li>
+              <a href="/writing">Writing</a>
+          </li>
+          <li>
+              <a href="/projects">Projects</a>
+          </li>
+        </ul>
+    </nav>
+    </div>
+  </header>
 
 <main>
     <slot />
