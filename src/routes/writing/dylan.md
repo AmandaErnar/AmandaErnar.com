@@ -1,6 +1,6 @@
 ---
 title: Dylan
-date: 2/4/2022
+date: 2/4/22
 
 ---
 

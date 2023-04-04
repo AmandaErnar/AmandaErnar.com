@@ -1,6 +1,6 @@
 ---
 title: Affliction
-date: 8/3/2020
+date: 8/3/20
 
 ---
 
