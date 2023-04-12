@@ -1,7 +1,7 @@
 * {
     color: #afbfcc;
     background: #f0f4f3;
-    font-size: 1.05rem;
+    font-size: 1rem;
     font-family: "richler-pro-pe", serif;
     padding-bottom: 0.75rem;
     animation: fadeInAnimation ease 1s;
@@ -30,6 +30,13 @@ header {
     justify-content: space-between;
 }
 
+h1 {
+    font-size: 1.1rem;
+    font-family: "lamar-pen", sans-serif;
+    font-style: normal;
+    font-weight: 0.5rem
+}
+
 ul {
     margin: 0;
     list-style-type: none;
@@ -49,10 +56,6 @@ a {
     text-decoration: none;
     color: #4F5C73;
     font-weight: 1rem;
-}
-
-h1 {
-    font-size: 2rem;
 }
 
 input[type=submit] {
@@ -113,7 +116,8 @@ border: none;
 }
 
 .gallery {
-    height: 16rem;
+    width: 35%;
+    align: center;
 }
 
 @keyframes fadeInAnimation {

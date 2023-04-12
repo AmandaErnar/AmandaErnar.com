@@ -2,13 +2,16 @@
     <title>Amanda Ernar</title>
     <link rel="stylesheet" href="https://use.typekit.net/xlg6gju.css">
     <link rel="stylesheet" href="/global.css">
-    <meta name="description" content="Sharing my writing, art, and other projects with the world via this little personal blog." />
+    <meta name="description" content="Sharing my writing, art, and other projects with the world via this personal blog." />
 </svelte:head>
 
-<header style='padding-left: -1rem; padding-top: 1rem;'>
+<header style='padding-left: -1rem; padding-top: 1rem; font-size: 0.7rem;'>
   <a href="/" style='justify-content: space-around;'>
-    <img class='favicon' src='/favicon.png' alt='Home' style='height: 4rem;'>
-  </a>
+    <img class='favicon' src='/favicon.png' alt='Home' style='height: 4rem; border-radius: 50%'>
+    </a>
+    <a href='/' style='float: center; padding-top: 2rem;'>
+      <h1>Amanda Ernar</h1>
+    </a>
         <nav>
         <ul>
           <li>

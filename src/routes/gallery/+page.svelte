@@ -1,9 +1,10 @@
 <h1>Gallery</h1>
-<h3>The purpose of this page is to act as a hub for all my favorite images in case Pinterest shuts down one day. </h3>
-<img src='img/mmm.png' alt='pink flower drawn by amanda ernar, age six' class='gallery'>
-<img src='img/IMG_1713.jpeg' alt='moon horoscope' class='gallery'>
-<img src='img/ruins_in_the_giant_mountains.jpg' alt='ruins in the giant mountains drawn by casper david friedrich' class='gallery'>
-<img src='img/the_cemetery_enterance.jpg' alt='the cemetery enterance drawn by casper david friedrich' class='gallery'>
-<img src='img/IMG_1771.jpeg' alt='muscle mommy' class='gallery'>
-      
+<h3>in case Pinterest shuts down</h3>
+<img src='img/slavic_goat.jpg' alt='pink flower drawn by amanda ernar, age six' class='gallery'>
+<img src='img/abstract.jpg' alt='piece of abstract art' class='gallery'>  
+<img src='img/vintage_textile.jpg' alt='stretch of vintage textile' class='gallery'>
+<img src='img/ethereal_birds.jpg' alt='flock of black crows amidst a backdrop of color' class='gallery'>
+  <img src='img/red_beach.jpg' alt='glaring, blood-gutted sea' class='gallery'>
+<img src='img/seagulls.jpg' alt='flock of white seagulls' class='gallery'>
+
     
