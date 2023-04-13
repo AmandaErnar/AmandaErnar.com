@@ -6,11 +6,8 @@
 </svelte:head>
 
 <header style='padding-left: -1rem; padding-top: 1rem; font-size: 0.7rem;'>
-  <a href="/" style='justify-content: space-around;'>
-    <img class='favicon' src='/favicon.png' alt='Home' style='height: 4rem; border-radius: 50%'>
-    </a>
-    <a href='/' style='float: center; padding-top: 2rem;'>
-      <h1>Amanda Ernar</h1>
+    <a href='/' style='padding-top: 2rem;'>
+      <h1 style='padding-left: 1rem;'>Amanda Ernar</h1>
     </a>
         <nav>
         <ul>
