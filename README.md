@@ -1,4 +1,8 @@
-To-do:
+Teaching the everyday person to write ✍️
 
-- Add pagination to /writing
-- Add try-catch block to .js files
+Author, wordsmith, student, musician.
+
+writing writingtips editing creativewriting englishtips
+
+Learned something? please like, retweet, and follow
+AmandaErnar
