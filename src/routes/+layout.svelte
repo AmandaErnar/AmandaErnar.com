@@ -29,6 +29,7 @@
 
 <footer>
   &copy; Copyright Amanda Ernar 2023 /
+  <a href="/gallery">Gallery</a> /
   <a href='https://open.spotify.com/user/8f945sifezyf05iahcrkgkreo'>Spotify</a> /  
   <a href='https://www.instagram.com/amanda.ernar'>Instagram</a> /
   <a href='https://www.youtube.com/@amandaernar4789'>YouTube</a> /
