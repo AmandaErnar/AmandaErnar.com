@@ -1,6 +1,6 @@
 * {
-    color: #afbfcc;
-    background: #f0f4f3;
+    color: #4f5c73;
+    background: #f2f1e8;
     font-size: 1rem;
     font-family: "richler-pro-pe", serif;
     padding-bottom: 0.75rem;
@@ -45,7 +45,7 @@ ul {
 }
 
 li, p {
-    font-family: schoolbook-condensed, serif;    
+    font-family: schoolbook-condensed, serif; 
 }
 
 nav {
@@ -54,14 +54,14 @@ nav {
 
 a {
     text-decoration: none;
-    color: #4F5C73;
+    color: #d97a4c;
     font-weight: 1rem;
 }
 
 input[type=submit] {
     border: 0rem;
     border-radius: -50rem;
-    background-color: #4F5C73;
+    background-color: #d97a4c;
     height: 4rem;
     padding-bottom: 1rem;
     padding-left: 1rem;
@@ -89,16 +89,16 @@ img:hover {
 }
 
 *::-webkit-scrollbar {
-width: 0.75rem;
+    width: 0.75rem;
 }
 
 *::-webkit-scrollbar-track {
-background: #f3f4f0;
+    background: #f2f1e8;
 }
 
 *::-webkit-scrollbar-thumb {
-background-color: #4f5c73;
-border: none;
+    background-color: #4f5c73;
+    border: none;
 }
 
 .favicon {

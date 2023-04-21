@@ -12,10 +12,10 @@
         <nav>
         <ul>
           <li>
-              <a href="/writing">Writing</a>
+              <a href="/writing" style='color: #4f5c73;'>Writing</a>
           </li>
           <li>
-              <a href="/projects">Projects</a>
+              <a href="/projects" style='color: #4f5c73;'>Projects</a>
           </li>
         </ul>
     </nav>
