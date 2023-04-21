@@ -89,16 +89,16 @@ img:hover {
 }
 
 *::-webkit-scrollbar {
-width: 0.75rem;
+    width: 0.75rem;
 }
 
 *::-webkit-scrollbar-track {
-background: #f2f1e8;
+    background: #f2f1e8;
 }
 
 *::-webkit-scrollbar-thumb {
-background-color: #4f5c73;
-border: none;
+    background-color: #4f5c73;
+    border: none;
 }
 
 .favicon {
