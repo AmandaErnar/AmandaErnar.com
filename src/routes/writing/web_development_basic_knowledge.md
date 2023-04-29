@@ -20,3 +20,7 @@ An HTTP endpoint, or an endpoint in general, is the end of one line of communica
 API stands for Application Programming Interface. It allows two things to communicate with each other via requests and responses, acting as a *contract* of sorts.
 
 A proxy is a class or variable that can be used to represent something else. A proxy server can be used to assign yourself a new IP address to connect to servers that are banned on your own. Servers are entities that speak to one another.
+
+## DOM (Document Object Model)
+
+A DOM is a representation of web code in various nodes and objects so that programming languages can change the page.

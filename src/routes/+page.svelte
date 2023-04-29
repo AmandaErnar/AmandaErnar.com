@@ -47,4 +47,3 @@
 <div style="text-align: center;">
     <img src='img/first_concert.png' style='width: 50%;' alt='first concert, grade 5'>
 </div>
-     
