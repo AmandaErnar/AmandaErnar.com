@@ -24,3 +24,9 @@ A proxy is a class or variable that can be used to represent something else. A p
 ## DOM (Document Object Model)
 
 A DOM is a representation of web code in various nodes and objects so that programming languages can change the page.
+
+## Javascript Knowledge for Web Development
+
+A Promise is, well, a promise. It either fails (rejects) or succeeds (resolves).
+
+Asynchronous code will wait for something to happen as other code runs in the mean time. Basically, the code branches off into different threads to run asynchronously.
