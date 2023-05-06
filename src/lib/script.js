@@ -1,17 +1,14 @@
-export const fetchMarkdownPosts = async () => {
+export const get_post = async () => {
   const post = Object.entries(import.meta.glob('/src/routes/writing/*.md'))
   
-  const allPosts = await Promise.all(
+  return await Promise.all(
     post.map(async ([path, resolver]) => {
       const { metadata } = await resolver()
-      const postPath = path.slice(11, -3)
 
       return {
         meta: metadata,
-        path: postPath,
-      }
+        path: path.slice(11, -3)
+      };
     })
-  )
-
-  return allPosts
-}
+  );
+};
