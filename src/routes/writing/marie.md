@@ -1,7 +1,6 @@
 ---
 title: Marie
 date: 9/1/20
-
 ---
 
 It felt like the world was holding its breath.

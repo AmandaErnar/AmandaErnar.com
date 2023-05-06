@@ -1,7 +1,6 @@
 ---
 title: Conversations With an Angel
 date: 4/2/23
-
 ---
 
 It’s a quarter till five. Melon-yellow fronds of waist-high grass dance and ripple around the bench I’m occupying. Brown mountains paint themselves into the horizon. A set of trees brew in the distance, shadowed, scads of colored light passing through their branching silhouettes. The sky laughs, its searing colors tincturing the east. It laughs with something brilliant, something larger than life.
@@ -30,7 +29,7 @@ The faint barking of a dog occupies the gaping silence. We sit like this for a f
 
 “There was this girl,” I say, finally. “You remind me of her.” The words bubble up and out of my throat like someone has drawn them from me against my will. She lets out a soft laugh. Her lips are a sweet somersault of red. “Do I?” She asks, intrigued. She doesn’t look pleased or annoyed, simply puzzling.
 
-“Hm, so you’re saying there *was* this girl? I’ll assume that this girl you knew is *dead*.” She puts emphasis on the word *dead*.
+“Hm, so you’re saying there _was_ this girl? I’ll assume that this girl you knew is _dead_.” She puts emphasis on the word _dead_.
 
 I scoff. “You can’t be serious.”
 
@@ -58,7 +57,7 @@ She leans in and whispers in my ear. Her whispers are sharp gusts of wind, gales
 
 “This girl,” she starts, bringing her cigarette to her lips, “what was her name?”
 
-*Natalie*, I want to say, but her eyes are already rapt. It’s like she already knows. She lifts her chin to meet my gaze and her brown eyes melt and turn to glass. She slowly brings her hand to mine, reaching for the pocket knife on my lap. Her thumb twiddles with it, retracting its blade. Her breath fogs the back of my neck.
+_Natalie_, I want to say, but her eyes are already rapt. It’s like she already knows. She lifts her chin to meet my gaze and her brown eyes melt and turn to glass. She slowly brings her hand to mine, reaching for the pocket knife on my lap. Her thumb twiddles with it, retracting its blade. Her breath fogs the back of my neck.
 
 “I don’t understand,” I swallow.
 
@@ -71,4 +70,3 @@ She sets her head on my shoulder. I blink and my eyes fill with tears. She lets 
 I pocket my knife.
 
 My face crumples.
-

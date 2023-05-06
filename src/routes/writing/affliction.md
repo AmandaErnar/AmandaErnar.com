@@ -1,7 +1,6 @@
 ---
 title: Affliction
 date: 8/3/20
-
 ---
 
 I tore my medicine cabinet open and grabbed a bottle of tiny green pills. I shook it frantically, desperately trying to get lots to pop out of its lid.
@@ -25,4 +24,3 @@ I looked around and shook my head. “This doesn’t look like Hell,” I sneere
 “It’s pretty though,” I mumbled, peering at the crashing waves behind her with content.
 
 She stared at our surroundings and shrugged. “I guess so,” she sighed, her voice hollow.
-

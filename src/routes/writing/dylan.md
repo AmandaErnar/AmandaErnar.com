@@ -1,10 +1,9 @@
 ---
 title: Dylan
 date: 2/4/22
-
 ---
 
-The day was nearing its end. He watched as the sun’s scarlet rays touched over the boundless pasture and blanketed the fleeting scarlet above---dappled with stars and splashed with various blushing hues, inhaling the sweet scent of wildflowers. He came to visit this relatively well-formed part of town every other week, when given the time. 
+The day was nearing its end. He watched as the sun’s scarlet rays touched over the boundless pasture and blanketed the fleeting scarlet above---dappled with stars and splashed with various blushing hues, inhaling the sweet scent of wildflowers. He came to visit this relatively well-formed part of town every other week, when given the time.
 
 “Beautiful day,” he grumbled, drawing in a breath from his cigar. He glanced at his watch and mumbled a curse, for it was almost four, and he had to be back at camp by then.
 
@@ -15,4 +14,3 @@ Dylan used the spare time he had to smoke. Out in the wilderness, somewhere far 
 On the battlefield, it seemed everyone's deaths were petty and absurd. They died like dazed bugs being crushed under someone's foot, as they were quickly shot to death, without a chance to even think. Dylan knew the battle scene all too well. He pressed his cigar into his lips, watching the distant sparks of soldiers' hazing campfires from afar.
 
 It was as if everyone's livelihoods and deaths were mere leaves floating down a vast river. But where would that river lead? Would it lead to them winning the war?
-

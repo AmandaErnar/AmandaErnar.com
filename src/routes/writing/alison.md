@@ -1,9 +1,7 @@
 ---
 title: Alison
 date: 9/30/20
-
 ---
-
 
 It was wildfire season in California. The sky was painted with streaks of scarlet, and the air smelled faintly of ash and charred lumber.
 
@@ -39,7 +37,7 @@ Alison Baines clenched her jaw and put her earbuds back in, wishing she never ev
 
 She had no idea where she was headed in life. She knew the last thing she wanted was to end up like her father— who worked a nine-to-five job slouching in front of a computer screen, his marriage failing and his eldest daughter writhing in a depressive state.
 
-It seemed to her that her lifeless soul was headed in the same direction. Either that, or she would die a very unfortunate death before she became an adult. 
+It seemed to her that her lifeless soul was headed in the same direction. Either that, or she would die a very unfortunate death before she became an adult.
 
 She squeezed her eyes shut and smashed her fists against her desk, sending bits of trash into the air. Alison was going to get her life together today. She was sure of it.
 

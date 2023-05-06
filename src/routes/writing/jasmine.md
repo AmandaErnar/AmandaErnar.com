@@ -1,7 +1,6 @@
 ---
 title: Jasmine
 date: 2/2/22
-
 ---
 
 I’ve always hated jazz.
@@ -30,7 +29,7 @@ I’m rounding a filthy street corner, stumbling into a hallway saturated with a
 
 I can hear Beethoven’s Archduke murmuring behind the doors ahead, though it sounds funny; the pianist isn’t there and happens to be a little behind schedule.
 
-A girl stands to block the auditorium doors, checking the time on her watch. She’s wearing plain, expensive clothing, like a kid dressing to impress the grown-ups. Her fingernails are unkempt from biting. Her makeup looks like it’s been done by a child. Though she’s tall and pale, her loveliness drifting to the other end of the hall. She lifts her chin to meet my gaze, beaming. 
+A girl stands to block the auditorium doors, checking the time on her watch. She’s wearing plain, expensive clothing, like a kid dressing to impress the grown-ups. Her fingernails are unkempt from biting. Her makeup looks like it’s been done by a child. Though she’s tall and pale, her loveliness drifting to the other end of the hall. She lifts her chin to meet my gaze, beaming.
 
 “Late for rehearsal?” She has a sleepy, raspy voice.
 
@@ -72,7 +71,7 @@ I don’t get a response.
 
 The night feels a little emptier. I look back over my shoulder and she isn’t there. My chest sinks.
 
-I relax my hand and the sand from within comes spilling out. Avoiding that counseling session had been a bad idea. 
+I relax my hand and the sand from within comes spilling out. Avoiding that counseling session had been a bad idea.
 
 I can’t help but wonder what could have been if she were really beside me, laughing at the stars spinning with contempt above our heads.
 
@@ -81,4 +80,3 @@ I can’t help but wonder what could have been if she were really beside me, lau
 My eyes close, and I can hear us performing Beethoven’s Archduke. It’s almost mournful behind its grinning chords. It hums with something strange. Of joy before the gloom of realization.
 
 The cool studio lights wane and quiver atop the piano’s scratched black surface. My fingers dance over the keys, slowing and quickening with her every glance. I look over my shoulder and smile at her. Jasmine smiles back.
-
