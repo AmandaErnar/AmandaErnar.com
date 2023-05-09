@@ -3,70 +3,60 @@ title: Conversations With an Angel
 date: 4/2/23
 ---
 
-It’s a quarter till five. Melon-yellow fronds of waist-high grass dance and ripple around the bench I’m occupying. Brown mountains paint themselves into the horizon. A set of trees brew in the distance, shadowed, scads of colored light passing through their branching silhouettes. The sky laughs, its searing colors tincturing the east. It laughs with something brilliant, something larger than life.
+The sky laughs with something brilliant, something larger than life.
 
-Its glaring, blood-gutted colors wash over the left side of my face as I realize I have the whole park to myself. Of course, just as the thought passes my mind, I look over my shoulder and see a woman walking over to me, her burnished-black heels clattering behind.
+My watch reads a quarter till five. Waist-high fronds of blond grass ripple off into the crowd of aspens brewing in the near distance, filtering scads of light through their branching silhouettes. Lake-blue mountains paint themselves into the horizon. The sky's blood-gutted colors tincture the east.
 
-Her head makes a slight tilt to the side. She’s smiling. The old black dress she’s wearing makes it look like she just stumbled out of a funeral home. Though she possesses a certain sweet and saintly quality that I’ve never seen before. And she’s familiar—very, very familiar.
+My body sinks into the gurgling grass field we used to call our hideout. Metal granaries tower into the bleeding sky. The distant shapes of mottled cattle roam within their logged-off enclosures. Crumbling concrete stitches into the slumping swingset by the orchard. Foliage litters the cobbling path, occasionally tumbling over to where I'm sitting. It's the time of year when the flowers begin to wilt and when golden flakes begin to shed from slews of bundling branches. It's quiet. It's like I'm a character that's been brushed into an oil painting. Well, I guess it's always this quiet here, out in the vacant pastures of eastern Idaho. But something's missing from the picture today, something that's been present every time I'm here.
 
-I move to make room for her and she sits down beside me. The run-down bench we’re sitting on creaks as she drops her weight on it with a thunk. She doesn’t seem to care.
+There's a woman walking over to me. She's carefully placing each of her feet into the prickling lashfuls of grass before us. Out gazes meet and she tilts her head to the side, giving a playful smile. She's wearing a stiff canvas jacket the color of bitter saffron. Her doe-shaped eyes flash as she catches sight of me. Her hair is done in twin braids, streaks of port running through them like veins, tied with lace ribbons at the bottoms. She sits down beside me, her frame slipping into the needling stretch of grass beneath. She crosses her legs. Her smile soars.
 
-“Beautiful morning,” she says as I shrink in my seat. Her voice is full and lovely. I’m surprised; I haven’t been so taken aback by someone’s grace in a while. “It’s lovely, isn’t it?” I murmur in response.
+"Beautiful morning," she says. Her voice is full and lovely.
 
-She’s something yoked from a pleasant dream, a happy memory.
+I'm not much of a talker, but I find myself wanting to hear her voice again. "What brings you here?"
 
-I breathe deeply as I watch her in silence. Her fingertips drum against the smooth, pale knees that poke out from under her dress. She’s wearing a silver ring on her right hand. Her fingernails are painted a dark red.
+"Hm, just felt like getting some fresh air. Do you come here often?"
 
-I take note of the way her head drops to the side whenever she smiles; it’s charming. A sweep of dark hair falls into her face. She tucks it back behind her ear. A husky breath of wind almost sends her hair and black sundress flying, if not for her reaching hands. She opens her violet handbag and her fingers carefully pull out a box of unlit cigarettes. Her smile soars.
+"Yeah, I guess."
 
-A pocket knife lays limp in my open palms. I don’t know why it’s there or how I plan to use it. For now, it only stares back, its corners catching the light of the sun. My hands grow heavy with its presence. There’s a certain warmth I feel as it sits, cusped in the pink, tender folds of my hands.
+Her fingertips drum against the smooth, pale knees that poke out from beneath her boxy denim shorts. She's wearing a silver ring on her right hand. Her fingernails are painted Tiffany-blue.
 
-The woman lights herself a cigarette, her thin bare shoulders creeping out from her black dress. “People consider it sad, but losing someone you love is a strange experience, really. It’s painful, yes, but you come out of it as a new person. But only in most cases.” She sighs as she says this, smoke eluding her lips as she breathes out. “Some people just can’t move on.” I don’t know how this conversation has come about. “With all due respect, why are you telling me this?” I have an idea of why, but I brush it off.
+"So why are you wearing that?"
 
-The woman shrugs. “Beats me.” She exhales, the bottom half of her face hiding in bogs of gray smoke. I don’t know what to say. I think of asking for a cigarette myself, but the idea escapes me.
+Her gaze traces my body and I flush. I'm dressed for a funeral, wearing a linen button-down and trousers that aren't flattering in the slightest, all black.
 
-The faint barking of a dog occupies the gaping silence. We sit like this for a few minutes as I am perturbed, musing on her buoyant blur of a presence.
+I dust off my shirt. "I don't---"
 
-“There was this girl,” I say, finally. “You remind me of her.” The words bubble up and out of my throat like someone has drawn them from me against my will. She lets out a soft laugh. Her lips are a sweet somersault of red. “Do I?” She asks, intrigued. She doesn’t look pleased or annoyed, simply puzzling.
+"No. I get it." She tucks a loose strand of dark hair behind her ear, pausing. The rest of her hair flutters frenziedly behind. She zips open one of the large pockets on her jacket and carefully pulls out a box of unlit cigarettes. "Um, I know I don't really know you and all. But how are you doing? How's everything coming along?"
 
-“Hm, so you’re saying there _was_ this girl? I’ll assume that this girl you knew is _dead_.” She puts emphasis on the word _dead_.
+She lights herself a cigarette, setting it into her mouth, puckering her lips just slightly.
 
-I scoff. “You can’t be serious.”
+She's something yoked from a pleasant dream, a happy memory.
 
-“Is she?” She presses on.
+"Everything's been...well."
 
-My silence speaks for itself.
+"Hm?"
 
-She leans back in her seat, crosses her legs, and lets out a sigh. “They say grief is a medicine of its own. I don’t know, though. There are people out there who just can’t recover from loss.” She tilts her head to the side. “How long has it been since—”
+"I just---I don't know. Someone close to me just passed and I don't really know what to do. Her funeral was today."
 
-“Six years.” Pictures, snapshots of us flash in my mind. I force my eyes shut; it’s painful to remember. “If you’re still grieving, then, I guess you’re helpless,” she sighs.
+Her face hides in bogs of earl smoke. "Y'know, there was this saying that my folks at home liked to say." She exhales, her breath dying into bogs of gray. Then she purses her lips, stamping her black, flake-tipped cigarette out on the freckled back of her palm. She fumbles with her ring a bit and goes back to running her fingers through her hair.
 
-I open my mouth to speak, but I can only watch as her gaze makes its way over to the weapon sitting in my palms. “The knife,” she begins, “what's it doing on your lap?” Her voice grows quiet. It took a while for her to notice it. “I don’t know,” I say. The girl stares, disappointed. It’s like she knows I’m lying.
+"They say grief's a medicine of its own."
 
-"You came here to take your life, didn't you?"
+There's something sweet, something saintly riddled between her words. They have a way of making my breath catch in my throat. They make me forget how tired I am, how I've been up all night, how my life was falling to pieces. She lifts her chin to meet my gaze and smiles. It's like her eyes are melting into mine. "Everything's gonna be fine."
 
-I chuckle. "How'd you know?"
+"You're right," I say, running my hand over the coarse sleeves of my button-down. There's something funny about her, about this, about everything. It's like I'm lost in a memory, helplessly toppling into a moment in time when life was bright and sultry. When she was still here.
 
-She gestures to my pocket knife. "You've made it obvious, with that thing sitting right there." She isn't smiling. She shoots me glare like she's known me for quite a while and the idea of me taking my life is somewhat of a sick joke.
+She seems more fragile, now, as if she'd fall apart at the touch, like a sand castle before a crashing wave. It's like I'm seeing her through a tumblerful of whiskey. "This girl," she starts, bringing her lips to my ear, "what was her name?"
 
-I feel disappointed in myself, in the fact that I lied. She has a way of making me feel guilty. And I should have felt guilty.
+*Natalie*, I want to say, but she stares far ahead and only smiles as if she already knew. She leans in and whispers something in my ear. Her whispers are sharp gusts of wind, gales, prayers. I can't interpret anything she says. Then she pulls away, her expression dying into melancholy. My chest burns. She slowly brings her hand to mine. Natalie's palms are only soft surges of warmth, of affection. I watch as her round eyes melt and turn into glass, her gentle breath fogging the side of my neck. 
 
-“Well, sorry, I don’t know, really, I—”
+"Everything's going to be fine," she says.
 
-She leans in and whispers in my ear. Her whispers are sharp gusts of wind, gales, prayers. I can’t interpret anything she's saying. She pulls away, her expression dying into melancholy. My chest burns.
+And then it all comes back to me. Her habit of tilting her head when she smiled, the warmth of her small hands instilling into mine as he held them, the way she could make me talk as if she drew the words from my throat, her cosmic red lips. The way she presses her head into your shoulder when she feels like crying. The way I'd tell her to drop her smoking habit and she'd only laugh. Us walking in silence over the weed-choked concrete paths. Our scattered violet shadows meeting on stretches of tall flaxen grass.
 
-“This girl,” she starts, bringing her cigarette to her lips, “what was her name?”
+She sets her head on my shoulder. "I've missed you," Natalie laughs.
 
-_Natalie_, I want to say, but her eyes are already rapt. It’s like she already knows. She lifts her chin to meet my gaze and her brown eyes melt and turn to glass. She slowly brings her hand to mine, reaching for the pocket knife on my lap. Her thumb twiddles with it, retracting its blade. Her breath fogs the back of my neck.
+But I blink and she's gone. She only disappears with a single puff of gray smoke and my eyes fill with tears. I still feel as though I can trace her with my fingertip. 
 
-“I don’t understand,” I swallow.
-
-She looks away. “Don’t do this, please.”
-
-Suddenly it all comes back to me: her habit of tilting her head when she smiled, the warmth of her small hands instilling into mine as she held them, the way she could go on talking for hours, our scattered violet shadows meeting on stretches of tall yellow grass, her cosmic red lips: Natalie.
-
-She sets her head on my shoulder. I blink and my eyes fill with tears. She lets out a final breath of gray smoke, swallowing her body whole. When it vanishes, she disappears, and I am left feeling hollow. I still feel as though I can trace her with my fingertip.
-
-I pocket my knife.
-
-My face crumples.
+"Fuck this," I sigh, pulling out a cigarette myself.

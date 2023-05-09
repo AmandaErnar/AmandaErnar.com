@@ -21,7 +21,7 @@
 <br />
 <div>
   <h2
-    style="font-family: "lamar-pen", sans-serif; font-style: normal; font-weight: 0.5rem;"
+    style="font-family: lamar-pen, sans-serif; font-style: normal; font-weight: 0.5rem;"
   >
     Who is Amanda Ernar?
   </h2>
